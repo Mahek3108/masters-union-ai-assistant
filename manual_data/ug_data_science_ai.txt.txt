@@ -1,0 +1,673 @@
+Undergraduate Programme in Data Science & AI
+1. What is the Undergraduate Programme in Data Science & AI?
+
+The Undergraduate Programme in Data Science & AI is a 4-year full-time programme designed to teach students data science, artificial intelligence, and real-world industry applications.
+
+2. What is the format of the Data Science & AI programme?
+
+The programme is offered in a full-time format with an opt-in residential option.
+
+3. When does the programme begin?
+
+The programme is scheduled to commence in August 2026.
+
+4. What is the Round 3 application deadline?
+
+The Round 3 application deadline is 13th May 2026.
+
+5. Who is eligible to apply for the Data Science & AI programme?
+
+Students who are:
+
+Currently in Class XII, or
+
+Pass-outs from recent years
+
+and have studied Mathematics are eligible to apply.
+
+6. Is Mathematics required for this programme?
+
+Yes. Applicants must have studied Mathematics in Class XII to be eligible for the programme.
+
+7. What is the duration of the Data Science & AI programme?
+
+The programme duration is 4 years.
+
+8. Does the programme include industry training?
+
+Yes. The programme includes 1 year of industry training where students gain practical experience working with companies.
+
+9. Is residential accommodation mandatory?
+
+No. The programme offers an opt-in residential option, meaning students can choose whether they want to stay in campus housing.
+
+10. What skills do students learn in the Data Science & AI programme?
+
+Students develop skills in areas such as:
+
+Data analysis
+
+Machine learning
+
+Artificial intelligence
+
+Programming and data tools
+
+Business applications of AI
+
+Faculty & Industry Experts
+1. Who teaches in the Data Science & AI programme?
+
+The programme is taught by AI leaders and industry experts from companies such as Microsoft, Google, PwC, Ola Krutrim, American Express, and PayPal.
+
+2. Are industry professionals involved in teaching?
+
+Yes. The programme includes mentorship and teaching from professionals working in leading technology companies.
+
+3. What kind of professionals mentor students in the programme?
+
+Students are mentored by CTOs, product leaders, and faculty from Ivy League institutions.
+
+4. How many mentors are involved in the programme?
+
+The programme includes 30+ CTOs and product heads who mentor students.
+
+5. What is the mentor-to-student ratio?
+
+The programme maintains an approximate 1:5 mentor-to-student ratio, allowing personalised guidance.
+
+Curriculum & Practical Learning
+6. How is the curriculum designed for the Data Science & AI programme?
+
+The curriculum follows an applied, low-theory approach focused on practical learning, product development, and real-world applications.
+
+7. Who helped design the curriculum?
+
+The curriculum was co-developed with PwC and Ola Krutrim.
+
+8. Does the programme include practical lab work?
+
+Yes. Students have access to a 5000 sq ft maker lab where they can build prototypes and experiment with technology.
+
+9. Do students visit companies and industries during the programme?
+
+Yes. Students visit 50+ factories and offices to understand real-world engineering and technology operations.
+
+10. Do students build real products during the programme?
+
+Yes. Students build four real products during the programme, typically one product each year.
+
+Product Development & Real-World Projects
+11. Do students build AI products during the programme?
+
+Yes. Students build and launch a unique AI product each term with real-world impact.
+
+12. How many products do students build before graduating?
+
+Students build and launch 40+ products before graduation.
+
+13. Do student-built products have real users?
+
+Yes. Student-built applications have reached 10,000+ real users.
+
+14. Are student products presented to investors?
+
+Yes. Student-built products are demonstrated to 100+ venture capitalists and CXO-level executives.
+
+Internships
+15. When do internships begin in the programme?
+
+Internships start from the first year of college, rather than only in the final year.
+
+16. Which companies offer internships to students?
+
+Students have interned with companies such as:
+
+Microsoft India
+
+Razorpay
+
+Krutrim
+
+17. What percentage of students get internships in the first year?
+
+Approximately 75% of students secure internships within their first year.
+
+18. Do students get international internship opportunities?
+
+Yes. Students have worked across India, UAE, US, and Singapore.
+
+Global Exposure
+19. Does the programme offer international exposure?
+
+Yes. Students participate in a Global Immersion Programme.
+
+20. What do students do during the global immersion programme?
+
+Students travel to different countries and learn about global technology ecosystems and innovation practices.
+
+21. Which companies are part of the global immersion experience?
+
+Students engage with organisations such as:
+
+Nissan
+
+Daikin
+
+Rakuten
+
+Mercedes
+
+Porsche
+
+United Nations
+
+Careem
+
+22. Which countries are included in the global immersion programme?
+
+Students may travel to regions such as:
+
+Japan
+
+Europe
+
+Dubai
+
+
+Curriculum – UG Programme in Data Science & AI
+Programme Learning Approach
+1. What is the learning approach in the Data Science & AI programme?
+
+The programme follows an industry-integrated curriculum where students learn by building real AI applications instead of focusing only on theoretical grades.
+
+2. How is the curriculum structured across semesters?
+
+Each year is structured into two phases:
+
+Semester 1: Develop AI tools
+
+Semester 2: Apply AI solutions in real-world industry problems
+
+3. What happens in the final year of the programme?
+
+In the final year, students complete a year-long internship or pursue a US study track, gaining deep industry experience.
+
+AI Tool Development
+4. What type of AI tools do students develop in the programme?
+
+Students build AI-powered applications such as chatbots, automation tools, and intelligent systems.
+
+5. Which technologies are used to build AI applications?
+
+Students use technologies such as:
+
+ChatGPT
+
+Perplexity
+
+Claude AI
+
+APIs
+
+Open-source tools
+
+No-code AI platforms
+
+6. What are examples of AI tools built by students?
+
+Examples include:
+
+Wellbeing chatbot for stress and anxiety management
+
+Study buddy chatbot for helping students learn subjects
+
+Customer support chatbot for handling FAQs and product queries
+
+7. What technical skills do students learn during AI tool development?
+
+Students learn skills such as:
+
+Prompt engineering
+
+API integration
+
+Data structures
+
+Conversational UX design
+
+Automation testing
+
+Chatbot workflow design
+
+AI Applications in Industry
+8. How do students apply AI in real-world business scenarios?
+
+Students analyse real business data to generate insights using machine learning and data analytics techniques.
+
+9. What business outcomes are expected from AI projects?
+
+Projects aim to increase revenue or reduce costs by 20% or more through AI-driven insights.
+
+10. What machine learning techniques are used in the programme?
+
+Students learn techniques such as:
+
+Clustering algorithms (K-Means, DBSCAN)
+
+Anomaly detection
+
+RFM analysis
+
+Demand forecasting
+
+11. What real-world business problems do students solve?
+
+Examples include:
+
+Customer segmentation for companies like Myntra and Zomato
+
+Fraud detection in financial transactions
+
+Demand forecasting for quick commerce companies such as Blinkit
+
+Agentic AI Accelerator
+12. What is the Agentic AI Accelerator?
+
+The Agentic AI Accelerator is a programme module where students build autonomous AI agents that automate business processes.
+
+13. What kind of business processes can AI agents automate?
+
+Examples include:
+
+HR operations such as onboarding and payroll
+
+Digital marketing content generation
+
+Procurement optimisation in manufacturing companies
+
+14. What skills are taught in the Agentic AI module?
+
+Students learn skills such as:
+
+Process automation
+
+Autonomous agent development
+
+Data engineering
+
+Workflow analysis
+
+Data wrangling and visualisation
+
+AI in Retail, Healthcare & Finance
+15. How is AI applied in different industries in the programme?
+
+Students develop AI solutions for industries such as retail, healthcare, and finance.
+
+16. What AI techniques are used for industry solutions?
+
+Students use techniques such as:
+
+Supervised learning
+
+Reinforcement learning
+
+Predictive analytics
+
+Time-series forecasting
+
+17. What real-world solutions do students build?
+
+Examples include:
+
+Sales forecasting for retail companies
+
+Early disease detection through medical record analysis
+
+AI-based portfolio optimisation for financial investments
+
+RAG Building Challenge
+18. What is the RAG Building Challenge?
+
+Students build domain-specific AI assistants using Retrieval Augmented Generation (RAG) to solve real-world problems.
+
+19. What examples of RAG assistants do students create?
+
+Examples include:
+
+Legal document summariser for lawyers
+
+Medical AI assistant for doctors
+
+Educational research assistant for students
+
+20. What technologies are used in the RAG challenge?
+
+Students learn technologies such as:
+
+Retrieval Augmented Generation (RAG)
+
+LLM fine-tuning
+
+Natural language processing
+
+Information retrieval systems
+
+Industry Immersion
+21. What happens during the industry immersion phase?
+
+Students work closely with AI startups and large technology companies to gain real-world experience.
+
+22. What opportunities are available during industry immersion?
+
+Students can:
+
+Work with AI companies
+
+Build their own AI startup
+
+Develop scalable AI products
+
+23. What skills do students develop during industry immersion?
+
+Students develop skills such as:
+
+AI product development
+
+Venture building
+
+Product-market fit analysis
+
+Cloud-based AI deployment
+
+Study Abroad Opportunity
+24. Can students study abroad in the programme?
+
+Yes. Students can spend their fourth year at Illinois Institute of Technology in Chicago.
+
+25. What degree do students receive after studying abroad?
+
+Students graduate with a Bachelor of Science in Artificial Intelligence from Illinois Tech.
+
+26. What electives are available during the study abroad year?
+
+Students can choose electives such as:
+
+Data Mining
+
+Distributed Computing
+
+Information Security
+
+Mathematical Modelling
+
+27. What benefits do students get from studying abroad?
+
+Students gain:
+
+Global academic exposure
+
+International internship opportunities
+
+Access to global technology networks
+
+
+Curriculum – Undergraduate Programme in Data Science & AI
+Year 1 – Learn the Fundamentals of Data Science & AI
+1. What is the focus of Year 1 in the Data Science & AI programme?
+
+Year 1 focuses on building foundational knowledge in data science, programming, and artificial intelligence to help students understand how data powers modern business decisions.
+
+2. What core subjects are taught in Year 1?
+
+Year 1 includes foundational courses such as:
+
+Introduction to Data Science
+
+Linear Algebra
+
+Probability & Statistics
+
+Programming Fundamentals
+
+Computer Fundamentals
+
+Data Structures
+
+Unsupervised Machine Learning
+
+3. Do students learn programming in the first year?
+
+Yes. Students learn programming through courses like:
+
+Programming Fundamentals I
+
+Programming Fundamentals II
+
+Coding with Java
+
+These courses help students understand logic, algorithms, and software development for AI systems.
+
+4. What AI concepts are introduced in the first year?
+
+Students learn about:
+
+Origins of Artificial Intelligence
+
+AI Agents
+
+Industry transformation through AI
+
+5. Do students work on practical AI projects in Year 1?
+
+Yes. Students participate in projects such as:
+
+Applied AI Challenge – building AI products and generating ₹5 lakh or more in revenue.
+
+AI Application in Industry – building AI solutions for real companies using techniques like clustering and anomaly detection.
+
+Year 2 – Master Data Science & AI for Career Excellence
+6. What is the focus of Year 2?
+
+Year 2 focuses on machine learning, data engineering, and advanced data science techniques.
+
+7. What core subjects are taught in Year 2?
+
+Courses include:
+
+Data Wrangling & Exploratory Data Analysis (EDA)
+
+Supervised Machine Learning
+
+Database Management
+
+Statistical Methods for Data Science
+
+Optimisation Theory
+
+Advanced Machine Learning & Deep Learning
+
+8. Do students learn data engineering in the programme?
+
+Yes. Students learn:
+
+Data Engineering
+
+Data Architecture
+
+Data pipeline design
+
+These courses help students manage large-scale datasets used in AI systems.
+
+9. What is the Agentic AI Accelerator?
+
+In the Agentic AI Accelerator, students build autonomous AI agents that automate business tasks and improve operational efficiency.
+
+10. What industry applications do students build in Year 2?
+
+Students create AI solutions for industries such as:
+
+Retail
+
+Healthcare
+
+Finance
+
+These projects aim to save 10,000+ work hours per year through automation and AI insights.
+
+Year 3 – Become an AI Leader
+11. What is the focus of Year 3?
+
+Year 3 focuses on advanced AI techniques, leadership skills, and real-world AI deployment.
+
+12. What advanced AI subjects are taught in Year 3?
+
+Courses include:
+
+Reinforcement Learning
+
+Natural Language Processing (NLP)
+
+Computer Vision
+
+AI Ethics and Policy
+
+MLOps & AI Systems
+
+Big Data & Cloud Computing
+
+13. Do students learn about AI deployment and infrastructure?
+
+Yes. Students study:
+
+MLOps
+
+Cloud-based AI systems
+
+Big data platforms
+
+These help them deploy AI models at scale in real-world applications.
+
+14. Do students learn AI applications in business and public policy?
+
+Yes. Courses explore AI applications in:
+
+Finance
+
+Public policy
+
+Business strategy
+
+15. What is the RAG Building Challenge?
+
+Students participate in the RAG Building Challenge, where they build AI assistants using Retrieval Augmented Generation (RAG).
+
+Example projects include:
+
+Finance AI assistants
+
+Medical diagnostic assistants
+
+Educational FAQ bots
+
+Legal document summarisers
+
+Year 4 – Industry Immersion & Global Exposure
+16. What happens in Year 4 of the programme?
+
+Year 4 focuses on industry immersion and real-world AI experience.
+
+17. What kind of industry experience do students get?
+
+Students work with AI startups and major technology companies to gain practical experience in AI development.
+
+18. What projects do students complete in the final year?
+
+Students work on:
+
+Live AI industry projects
+
+Startup development in AI
+
+AI product deployment
+
+19. Can students build their own AI startup in the final year?
+
+Yes. Through the Startup for Future initiative, students can build their own AI venture with mentorship from industry leaders.
+
+20. Is there a study abroad option in the programme?
+
+Yes. Students can study abroad for one year at a partner university in Chicago, USA, gaining global academic exposure.
+
+
+Fees & Scholarships – UG Programme in Data Science & AI
+Programme Fees
+1. What is the total tuition fee for the Data Science & AI programme?
+
+The total tuition fee for the 4-year programme is ₹52,50,000, excluding the non-refundable admission fee.
+
+2. What is the admission fee for the programme?
+
+Students are required to pay a non-refundable admission fee of ₹1,80,000.
+
+3. What are the tuition fees for each year?
+Year	Tuition Fee
+Year 1	₹10,80,000
+Year 2	₹15,95,000
+Year 3	₹17,85,000
+Year 4	₹7,90,000
+Scholarship Opportunities
+4. Are scholarships available for the programme?
+
+Yes. Students can receive 25%, 50%, or 80% scholarships based on their entrance exam performance.
+
+5. What exam scores are required for a 25% scholarship?
+
+Students may qualify for a 25% scholarship with:
+
+90 percentile or higher in JEE, or
+
+1500+ in SAT, or
+
+35+ score in MUSAT
+
+6. What exam scores are required for a 50% scholarship?
+
+Students may qualify for a 50% scholarship with:
+
+95 percentile or higher in JEE, or
+
+1550+ in SAT, or
+
+40+ score in MUSAT
+
+7. What exam scores are required for an 80% scholarship?
+
+Students may qualify for an 80% scholarship with:
+
+99 percentile or higher in JEE, or
+
+1590+ in SAT, or
+
+43+ score in MUSAT
+
+Fees After Scholarships
+8. What is the total fee with a 25% scholarship?
+
+With a 25% scholarship, the total tuition fee becomes ₹39,37,500.
+
+9. What is the total fee with a 50% scholarship?
+
+With a 50% scholarship, the total tuition fee becomes ₹26,25,000.
+
+10. What is the total fee with an 80% scholarship?
+
+With an 80% scholarship, the total tuition fee becomes ₹10,50,000.
+
+Year-wise Fees with Scholarships
+Year	Without Scholarship	25% Scholarship	50% Scholarship	80% Scholarship
+Year 1	₹10,80,000	₹8,10,000	₹5,40,000	₹2,16,000
+Year 2	₹15,95,000	₹11,96,250	₹7,97,500	₹3,19,000
+Year 3	₹17,85,000	₹13,38,750	₹8,92,500	₹3,57,000
+Year 4	₹7,90,000	₹5,92,500	₹3,95,000	₹1,58,000

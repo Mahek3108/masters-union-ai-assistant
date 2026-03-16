@@ -1,0 +1,744 @@
+The PG Programme in UI/UX & AI Product Design is a 16-month postgraduate programme designed to train students to become AI-first product designers. The course focuses on building skills in user experience design, interface design, product thinking, and AI-driven product workflows.
+
+It combines design fundamentals, AI tools, and real-world product building to prepare learners for roles in modern digital product companies.
+
+Programme Overview
+Format
+
+Hybrid Programme
+
+Combination of online and offline classes
+
+Duration
+
+16 Months
+
+Start Date
+
+July 2026
+
+Eligibility
+
+Bachelor’s Degree (any discipline)
+
+The programme is structured to help students transition from learner to professional UX/Product designer through practical projects and industry mentorship.
+
+Why AI Product Design?
+
+India’s digital economy is expected to reach 20% of the country’s Gross Value Added (GVA) by 2029–30, making user experience and product design a critical business function.
+
+Key industry shifts driving demand:
+
+Rapid growth of digital products and platforms
+
+Increasing importance of design leadership in product teams
+
+Adoption of AI tools by designers
+
+Studies show that 93% of designers in India now use AI tools in their workflow.
+
+This programme prepares designers who can:
+
+Design intuitive user experiences
+
+Build AI-powered product features
+
+Collaborate with product managers and engineers
+
+Learning Paths
+
+Students can choose between two learning formats depending on their career stage.
+
+Offline Weekday Programme
+
+Designed for fresh graduates or early-career aspirants.
+
+Key Features
+
+Full-time on-campus programme in Gurugram
+
+Daily studio sessions and design labs
+
+Team collaboration and product critiques
+
+Portfolio development with mentors
+
+Internship and placement support
+
+Students participate in live design sprints, usability testing, and product reviews.
+
+Online Weekend Programme
+
+Designed for working professionals.
+
+Key Features
+
+Live weekend classes
+
+Flexible weekday assignments
+
+Continue working while learning
+
+Portfolio projects for career transition
+
+Guidance for switching into product design roles
+
+Participants apply their learning directly to their current job projects.
+
+Curriculum Highlights
+
+The curriculum focuses on end-to-end product design capability.
+
+Students learn how to design products from idea to shipped interface.
+
+Core Skill Areas
+
+UI Design & Interaction Design
+
+Interface layouts
+
+Design principles
+
+Micro-interactions
+
+UX Research
+
+User interviews
+
+Behavioral analysis
+
+Usability testing
+
+Prototyping & Design Tools
+
+Wireframes
+
+Interactive prototypes
+
+Testing user flows
+
+AI-first Product Design
+
+AI-powered user experiences
+
+Prompt-based design workflows
+
+AI feature experimentation
+
+Design Systems
+
+Scalable UI components
+
+Developer handoffs
+
+Iteration workflows
+
+Faculty
+
+The programme is taught by industry design leaders working at top product companies.
+
+Faculty Model
+
+1:1 mentorship from experienced designers
+
+Masterclasses by Chief Design Officers
+
+70%+ courses taught by industry practitioners
+
+Mentors come from companies such as:
+
+Swiggy
+
+Cars24
+
+BharatPe
+
+Zepto
+
+Uber
+
+Real-World Experience
+
+Students work in live product environments during the programme.
+
+Practical Learning Includes
+
+Live studios solving real company problems
+
+Design sprints with engineers and product managers
+
+Shipping actual products used by users
+
+This approach ensures students gain industry-ready experience instead of only academic projects.
+
+Career Outcomes
+
+Graduates are trained for roles such as:
+
+UI Designer
+
+UX Designer
+
+Product Designer
+
+Interaction Designer
+
+AI Product Designer
+
+Design Strategist
+
+Placement Highlights
+
+Highest placement: ₹1.2 Crore
+
+Average CTC: ₹33 LPA
+
+International offers: 30+ (UAE, USA, Canada)
+
+Companies hiring graduates include:
+
+Google
+
+Zomato
+
+Myntra
+
+CRED
+
+PGP in UI/UX & AI Product Design
+Curriculum Structure
+
+The programme is structured across 5 academic terms, where students progressively build expertise in digital design, product thinking, AI-powered interfaces, research, and real-world product development.
+
+Each term combines in-class learning with practical industry challenges.
+
+Term 1: Foundations of Digital & AI-Native Design
+
+Students learn the core language of digital products and begin integrating AI tools, collaborative systems, and code-assisted design practices.
+
+Core Subjects
+Foundations of Digital Design
+
+Learn how to apply:
+
+Composition
+
+Color theory
+
+Visual hierarchy
+
+Layout systems
+
+to design clear and balanced digital interfaces.
+
+Heuristic Evaluation & Usability
+
+Understand how to analyze digital interfaces using established usability heuristics and design principles.
+
+Visual Storytelling for Digital Products
+
+Learn how to convert ideas into visual narratives using:
+
+Sketching
+
+Storyboarding
+
+Product storytelling frameworks
+
+Wireframing & Interface Design
+
+Develop UI layouts and interactive wireframes using tools like:
+
+Figma
+
+Framer
+
+Typography Systems & Responsive Scaling
+
+Design scalable typography systems that adapt across different devices and screen sizes.
+
+AI-Driven Design Exploration
+
+Use generative AI tools to accelerate design ideation and explore multiple visual directions.
+
+Designing with Cursor
+
+Learn how to collaborate with code using Cursor, enabling designers to prototype and iterate directly with code.
+
+Term 1 Practical Challenge
+Dark Pattern Audit Challenge
+
+Goal: Increase Long-Term User Value (LTV) by 25% by replacing manipulative UI patterns with transparent design.
+
+Students will:
+
+Perform a Dark Pattern Audit on a popular application
+
+Identify deceptive UX patterns such as:
+
+Roach Motels
+
+Hidden Costs
+
+Forced Continuity
+
+Redesign the product using trust-centered design principles
+
+Run a simulated A/B test comparing deceptive UI vs ethical UI
+
+Term 2: Research, Prototyping & Industry Practice
+
+This term focuses on user research, information architecture, and real-world product design workflows.
+
+Core Subjects
+Research Methods I
+
+Learn how to conduct:
+
+Field studies
+
+User interviews
+
+Persona creation
+
+Journey mapping
+
+Information Architecture
+
+Design scalable information structures using techniques like:
+
+Card sorting
+
+Content clustering
+
+AI-assisted organization
+
+Web Technologies for Designers
+
+Learn the basics of:
+
+HTML
+
+CSS
+
+JavaScript
+
+to prototype and understand how digital interfaces are built.
+
+Interface Prototyping
+
+Build high-fidelity prototypes using:
+
+Figma
+
+AI plugins
+
+Cursor for component-level coding
+
+Concept-to-Prototype
+
+Take a product idea from concept to working prototype through a structured design sprint.
+
+Collaborative Design with MCP Servers
+
+Learn real-time collaboration in shared design and coding environments.
+
+Design Systems
+
+Build scalable design systems using:
+
+Design tokens
+
+Components
+
+UI patterns
+
+Term 2 Practical Challenge
+Ghost Cart Revenue Recovery Challenge
+
+Goal: Increase e-commerce revenue by 15%+ by reducing cart abandonment.
+
+Students will:
+
+Audit and redesign a checkout flow
+
+Build a streamlined multi-step checkout experience
+
+Improve:
+
+Form design
+
+Error messaging
+
+Value communication
+
+Present a solution with a 3-month ROI forecast
+
+Term 3: Design Thinking, Interaction & Intelligent Systems
+
+This term focuses on advanced design thinking and AI-powered interactions.
+
+Core Subjects
+Critical Thinking for Designers
+
+Use sketching and visual frameworks to explore and refine product concepts.
+
+Product & Project Management
+
+Understand the full product lifecycle from business strategy to product delivery.
+
+Research Methods II
+
+Analyze large qualitative datasets and synthesize insights for strategic design decisions.
+
+Cursor for Research Writing
+
+Use AI-assisted tools to draft, edit, and refine research documentation.
+
+Interaction Design & Motion
+
+Design responsive and animated interfaces that improve user experience.
+
+Conversational Interfaces & Adaptive Systems
+
+Learn to design intelligent systems such as:
+
+Chatbots
+
+AI assistants
+
+Adaptive user interfaces
+
+Advanced Design Systems
+
+Create scalable design governance frameworks for large product ecosystems.
+
+Term 3 Practical Challenge
+AI Copilot SaaS Dashboard
+
+Goal: Improve employee productivity by 20% by reducing time-to-insight to under 60 seconds.
+
+Students will:
+
+Map current data-to-decision workflows
+
+Prototype a natural language analytics interface
+
+Build predictive insights that suggest next best actions
+
+Test productivity improvements during simulations
+
+Term 4: Advanced Interaction, Systems & Psychology
+
+This term explores the intersection of human psychology, computing systems, and design.
+
+Core Subjects
+Design Communication & Collaboration
+
+Learn how to communicate design ideas clearly and collaborate with:
+
+Engineers
+
+Product managers
+
+Stakeholders
+
+Programming Interactive Experiences (PIX)
+
+Design interactive systems such as:
+
+Web apps
+
+Digital installations
+
+Interactive kiosks
+
+Design for Inclusive Experiences
+
+Design digital products that serve diverse user groups including:
+
+Elderly users
+
+People with disabilities
+
+Software Structures for User Interfaces (SSUI)
+
+Learn modern front-end architecture and UI frameworks across:
+
+Web
+
+Mobile
+
+Wearables
+
+Desktop
+
+Psychology of Play
+
+Apply behavioral psychology principles to create engaging user experiences.
+
+Conversational Interfaces & Adaptive Systems
+
+Design AI-powered systems that dynamically adapt to user needs.
+
+Term 4 Practical Challenge
+Founder’s Right Hand Challenge
+
+Students work directly with startup founders and product leaders.
+
+They will:
+
+Solve real product problems
+
+Participate in early-stage product discovery
+
+Design MVP user experiences
+
+Create prototypes used in investor presentations and product launches
+
+Term 5: Capstone Project
+
+The final term focuses on a real-world product development project.
+
+Students apply everything learned throughout the programme.
+
+Capstone Workflow
+
+Understand the industry sponsor’s business context
+
+Conduct competitive and user research
+
+Generate insights from field data
+
+Create product concepts and prototypes
+
+Iteratively test and refine solutions
+
+Present the final product to faculty and industry experts
+
+Final Challenge
+0 → 100K Users Product Challenge
+
+Students build a digital product from idea to live users.
+
+Steps include:
+
+Identifying real user problems
+
+Designing an MVP
+
+Launching the product
+
+Tracking key metrics such as:
+
+Sign-ups
+
+Activation
+
+Retention
+
+Iterating based on real user behavior
+
+PGP in UI/UX & AI Product Design
+Application Timeline & Admission Process
+
+The admission process for the PG Programme in UI/UX & AI Product Design is designed to evaluate applicants based on their creative thinking, design ability, portfolio strength, and communication skills.
+
+The process consists of four stages.
+
+Step 1: Complete the Application Form
+
+Applicants must first fill out the online application form and submit the required documents.
+
+Application Fee
+
+₹500
+
+Required Documents
+
+Applicants must upload the following:
+
+Latest resume in a clear format
+
+Government ID for verification
+
+Academic qualification documents
+
+Work experience documents (if applicable) such as:
+
+Offer letters
+
+Internship certificates
+
+Experience letters
+
+Any additional certifications or achievements
+
+These documents help the admissions team understand your academic background and professional experience.
+
+Step 2: Submit Your Portfolio
+
+After completing the application form and paying the application fee, applicants must submit a design portfolio.
+
+What the Admissions Team Evaluates
+
+The portfolio helps evaluate:
+
+Creative thinking
+
+Problem-solving ability
+
+Design process
+
+User-centered thinking
+
+Clarity of ideas
+
+Portfolio Requirements
+
+Applicants may submit:
+
+A design portfolio file
+
+Or a portfolio website link
+
+The portfolio can include:
+
+UI/UX design projects
+
+Product design case studies
+
+Visual design work
+
+UX research projects
+
+Experimental design concepts
+
+The admissions committee values clarity of thought, design process, and problem-solving ability more than visual polish alone.
+
+Step 3: Personal Interview
+
+Shortlisted applicants are invited for a portfolio-led interview.
+
+Interview Format
+
+Applicants will:
+
+Present 1–2 projects from their portfolio
+
+Explain the problem statement
+
+Describe their design process
+
+Discuss key decisions and trade-offs
+
+Interview Evaluation Criteria
+
+The panel may ask questions related to:
+
+Research methods used
+
+How user flows were prioritised
+
+Handling constraints such as:
+
+Time
+
+Stakeholders
+
+Limited data
+
+Collaboration with:
+
+Engineers
+
+Product managers
+
+Decision-making and design thinking
+
+The goal is to evaluate:
+
+Clarity of thinking
+
+Communication ability
+
+Design judgment
+
+Interview details such as date, time, and venue are shared 3–5 days in advance.
+
+Step 4: Final Admission Decision
+
+After reviewing the application, portfolio, and interview performance, the admissions committee makes the final decision.
+
+Applicants fall into one of three categories.
+
+Accepted
+
+Applicants who receive an offer will:
+
+Receive an admission letter
+
+Receive the programme fee structure
+
+Be given a timeline to confirm their seat by paying the admission fee
+
+Waitlisted
+
+Masters’ Union does not maintain a ranked waitlist.
+
+Applicants in this category may receive an offer if seats become available in the cohort.
+
+The admissions committee periodically reviews the waitlist.
+
+Rejected
+
+Applicants who are not selected may:
+
+Reapply in another admission round
+
+Apply in the next academic year with a stronger portfolio.
+
+Programme Fee Structure
+
+The programme fee is paid in two major installments over the duration of the course.
+
+Admission Fee (Non-Refundable)
+
+Within 30 days of offer
+
+₹75,000
+
+Tuition Fee Installments
+Before Programme Start
+
+₹10,95,000
+
+Mid-Programme Installment
+
+(After 3 months)
+
+₹10,95,000
+
+Total Programme Fee
+Category	Total Fee
+Without Scholarship	₹21,90,000
+20% Scholarship	₹17,52,000
+30% Scholarship	₹15,33,000
+50% Scholarship	₹10,95,000
+Scholarships
+
+Students may receive scholarships based on merit or financial need.
+
+Merit-Based Scholarships
+
+These scholarships are awarded to candidates who demonstrate:
+
+Exceptional design ability
+
+Strong portfolio
+
+High creativity and innovation potential
+
+Need-Based Scholarships
+
+Need-based scholarships support talented candidates who face financial constraints, ensuring that deserving applicants can access the programme.

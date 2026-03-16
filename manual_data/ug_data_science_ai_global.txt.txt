@@ -1,0 +1,435 @@
+UG Programme in Data Science & AI (Global – Illinois Tech)
+Programme Overview
+1. What is the UG Programme in Data Science & AI?
+
+The UG Programme in Data Science & AI is a 4-year undergraduate programme focused on building real-world AI products and data-driven solutions through hands-on learning.
+
+2. What is the teaching approach of the programme?
+
+The programme follows a learn-by-building approach, where students create AI tools, applications, and data-driven systems while studying core data science and AI concepts.
+
+3. What is the format of the programme?
+
+The programme is offered in a full-time format with on-campus learning.
+
+4. Where is the programme conducted?
+
+The programme is conducted across two campuses:
+
+Masters’ Union, Gurugram (India)
+
+Illinois Institute of Technology, Chicago (USA)
+
+5. What is the 3+1 programme structure?
+
+The programme follows a 3+1 structure:
+
+First 3 years: Study at Masters’ Union in Gurugram
+
+Final year: Study at Illinois Institute of Technology in Chicago
+
+6. When does the programme begin?
+
+The programme commences in August 2026.
+
+7. What is the Round 3 application deadline?
+
+The Round 3 application deadline is 13th May 2026.
+
+8. Who is eligible to apply for the programme?
+
+Students who:
+
+Have completed or are currently in Class XII
+
+Have Mathematics as a subject
+
+are eligible to apply.
+
+9. What is the duration of the programme?
+
+The programme duration is 4 years.
+
+10. What degree do students receive after completing the programme?
+
+Students graduate with a Bachelor’s degree in Data Science & Artificial Intelligence, including international academic exposure.
+
+11. Do students study abroad during the programme?
+
+Yes. Students spend one year studying at Illinois Institute of Technology in Chicago.
+
+12. What global benefits do students get from the programme?
+
+Students gain:
+
+International academic exposure
+
+Access to global research and AI ecosystems
+
+Networking opportunities with international companies
+
+1. Who teaches in the Data Science & AI programme?
+
+The programme is taught by AI engineers, product leaders, and industry experts from companies such as PwC, Ola Krutrim, Microsoft, Google, PayPal, and American Express.
+
+2. How many industry experts are involved in the programme?
+
+The programme includes 100+ industry experts who contribute to teaching, mentorship, and workshops.
+
+3. What kind of mentorship do students receive?
+
+Students receive mentorship from:
+
+30+ CTOs and product leaders
+
+Professors from Illinois Tech and leading institutions
+
+Experts from organisations such as Google, MIT, and NASA
+
+4. What is the mentor-to-student ratio in the programme?
+
+The programme offers a 1:5 mentor-to-student ratio, allowing personalised learning and guidance.
+
+Curriculum & Learning Approach
+5. How is the curriculum designed for the programme?
+
+The curriculum is application-first and industry-built, developed in collaboration with PwC and Ola Krutrim.
+
+6. What type of practical learning facilities are available?
+
+Students get access to:
+
+A 5000 sq ft prototyping lab
+
+Field projects with 50+ organisations
+
+Opportunities to build four real products during the programme
+
+7. What is the “learn by shipping” approach?
+
+Students build and launch real AI products each term, solving real-world industry problems rather than focusing only on theoretical learning.
+
+8. How many AI products do students build before graduation?
+
+Students build and launch 40+ AI products during the programme.
+
+9. Do student-built products reach real users?
+
+Yes. Student-built applications have reached 10,000+ real users.
+
+10. Do students present their projects to industry leaders?
+
+Yes. Students demonstrate their products to 100+ venture capitalists, CXOs, and technology leaders.
+
+Internships
+11. When do internships begin in the programme?
+
+Students can start internships from the first year of college.
+
+12. Which companies offer internships to students?
+
+Students have interned with companies such as:
+
+Microsoft
+
+Razorpay
+
+Ola Krutrim
+
+13. What percentage of students secure internships in the first year?
+
+Approximately 75% of students secure internships within their first year.
+
+14. Do students get international internship opportunities?
+
+Yes. Students have worked across:
+
+India
+
+UAE
+
+United States
+
+Singapore
+
+Global Exposure
+15. Does the programme offer international study opportunities?
+
+Yes. Students spend their fourth year studying at Illinois Institute of Technology in Chicago.
+
+16. What degree do students receive after completing the programme?
+
+Students graduate with a Bachelor of Science (B.S.) in Artificial Intelligence from Illinois Tech (USA).
+
+17. What global opportunities do students gain from this programme?
+
+Students gain:
+
+Access to Illinois Tech’s global internship network
+
+Exposure to international AI ecosystems
+
+Networking with alumni across three continents
+
+1. Who teaches in the Data Science & AI programme?
+
+The programme is taught by AI engineers, product leaders, and industry experts from companies such as PwC, Ola Krutrim, Microsoft, Google, PayPal, and American Express.
+
+2. How many industry experts are involved in the programme?
+
+The programme includes 100+ industry experts who contribute to teaching, mentorship, and workshops.
+
+3. What kind of mentorship do students receive?
+
+Students receive mentorship from:
+
+30+ CTOs and product leaders
+
+Professors from Illinois Tech and leading institutions
+
+Experts from organisations such as Google, MIT, and NASA
+
+4. What is the mentor-to-student ratio in the programme?
+
+The programme offers a 1:5 mentor-to-student ratio, allowing personalised learning and guidance.
+
+Curriculum & Learning Approach
+5. How is the curriculum designed for the programme?
+
+The curriculum is application-first and industry-built, developed in collaboration with PwC and Ola Krutrim.
+
+6. What type of practical learning facilities are available?
+
+Students get access to:
+
+A 5000 sq ft prototyping lab
+
+Field projects with 50+ organisations
+
+Opportunities to build four real products during the programme
+
+7. What is the “learn by shipping” approach?
+
+Students build and launch real AI products each term, solving real-world industry problems rather than focusing only on theoretical learning.
+
+8. How many AI products do students build before graduation?
+
+Students build and launch 40+ AI products during the programme.
+
+9. Do student-built products reach real users?
+
+Yes. Student-built applications have reached 10,000+ real users.
+
+10. Do students present their projects to industry leaders?
+
+Yes. Students demonstrate their products to 100+ venture capitalists, CXOs, and technology leaders.
+
+Internships
+11. When do internships begin in the programme?
+
+Students can start internships from the first year of college.
+
+12. Which companies offer internships to students?
+
+Students have interned with companies such as:
+
+Microsoft
+
+Razorpay
+
+Ola Krutrim
+
+13. What percentage of students secure internships in the first year?
+
+Approximately 75% of students secure internships within their first year.
+
+14. Do students get international internship opportunities?
+
+Yes. Students have worked across:
+
+India
+
+UAE
+
+United States
+
+Singapore
+
+Global Exposure
+15. Does the programme offer international study opportunities?
+
+Yes. Students spend their fourth year studying at Illinois Institute of Technology in Chicago.
+
+16. What degree do students receive after completing the programme?
+
+Students graduate with a Bachelor of Science (B.S.) in Artificial Intelligence from Illinois Tech (USA).
+
+17. What global opportunities do students gain from this programme?
+
+Students gain:
+
+Access to Illinois Tech’s global internship network
+
+Exposure to international AI ecosystems
+
+Networking with alumni across three continents
+
+Admissions – UG Programme in Data Science & AI (Global)
+Application Process
+1. What is the admission process for the Data Science & AI programme?
+
+The admission process consists of four main stages:
+
+Complete the Application Online
+
+Submit the Video Essay
+
+Submit Test Scores (JEE / SAT / MUSAT)
+
+Admission Decision
+
+Step 1 – Online Application
+2. What documents are required for the application?
+
+Applicants must submit:
+
+Class X marksheet
+
+Class XI marksheet
+
+Class XII passing certificate (for students graduating in 2024, 2025, or 2026)
+
+3. Are test scores required for admission?
+
+Yes. Applicants must submit one of the following:
+
+JEE (Session 1 or Session 2) scores
+
+SAT scores
+
+If students do not have these scores, they must take the Masters’ Union Scholarship Aptitude Test (MUSAT).
+
+Step 2 – Video Essay
+4. Is a video essay required for the application?
+
+Yes. Applicants must submit a 2-minute video essay within 7 days of submitting the online application.
+
+5. What should students include in the video essay?
+
+Students should discuss:
+
+Their interest in technology or AI
+
+Any projects, applications, or internships they have worked on
+
+Personal achievements or experiences related to technology
+
+6. What are the technical requirements for the video essay?
+
+The video must:
+
+Be maximum 2 minutes long
+
+Be uploaded to Google Drive
+
+Have sharing enabled as “Anyone with the link can view”
+
+Step 3 – Test Scores
+7. What exams are accepted for admission evaluation?
+
+Applicants can submit scores from:
+
+JEE
+
+SAT
+
+If they do not have these scores, they must take the Masters’ Union Scholarship Aptitude Test (MUSAT).
+
+8. How does the MUSAT test work?
+
+Students taking MUSAT will:
+
+Receive a 7-day window to complete the test
+
+Get only one attempt at the main test
+
+Receive a practice test before the main exam
+
+Step 4 – Admission Decision
+9. What admission outcomes are possible?
+
+Applicants may receive one of the following decisions:
+
+Accepted
+
+Rejected
+
+Waitlisted
+
+10. What happens if a student is accepted?
+
+Accepted students receive:
+
+Admission confirmation
+
+Fee structure for the programme
+
+Students must confirm admission by paying the admission fee within 7–21 days.
+
+11. What happens if a student is waitlisted?
+
+Waitlisted applicants may receive admission if additional seats become available.
+
+12. Can rejected applicants apply again?
+
+Yes. Rejected applicants can apply again in the next academic year.
+
+Lateral Entry
+13. Does the programme allow lateral entry?
+
+Yes. Students studying in the first year at another university can apply for lateral entry into the programme.
+
+14. Is the admission process different for lateral entry?
+
+No. The online admission process remains the same for all applicants.
+
+Fee Structure
+15. What is the total tuition fee for the Data Science & AI global programme?
+
+The total tuition fee is approximately ₹1,14,80,000, excluding additional personal expenses.
+
+16. Is there an admission fee?
+
+Yes. Students must pay a non-refundable admission fee of ₹1,80,000.
+
+17. What are the tuition fees for each year?
+Year	Tuition Fee
+Year 1	₹10,80,000
+Year 2	₹15,95,000
+Year 3	₹17,85,000
+Year 4 (Illinois Tech)	₹70,20,000
+18. Why is the fourth-year tuition higher?
+
+The fourth year is completed at Illinois Institute of Technology in Chicago, which includes international tuition fees and academic resources.
+
+19. How is the fourth-year tuition calculated?
+
+The fourth-year fee is approximately $78,000 converted to INR using an exchange rate of 1:90.
+The final cost may vary depending on the exchange rate at the time of study.
+
+Hostel Fees
+20. Are hostel accommodations available?
+
+Yes. Hostel accommodation is available in Gurugram for the first three years of the programme.
+
+21. What are the hostel accommodation options?
+
+Twin Sharing: ₹27,500 per month
+
+Single Sharing: ₹48,500 per month
+
+22. Does the hostel fee include electricity and taxes?
+
+No. Electricity charges and applicable taxes are not included in the hostel fee.
+
+

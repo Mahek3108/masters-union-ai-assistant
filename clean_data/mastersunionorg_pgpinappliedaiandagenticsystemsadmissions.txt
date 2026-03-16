@@ -1,0 +1,444 @@
+See what students, mentors, alumni
+and recruiters say about Masters'
+moments that reflect our culture,
+learning and community. Explore their
+See how Masters’ Union is represented
+platforms. Explore articles, features,
+and press coverage that reflect our
+journey, initiatives, and growing
+impact in education, innovation, and
+Explore the awards, rankings and accreditations that recognise the quality, impact
+and industry relevance of Masters' Union programmes.
+UG in Technology & Business Management
+UG in Technology & Business Management
+UG in Psychology & Marketing (Illinois
+UG in Data Science & AI (Illinois Tech,
+UG in Technology & Business Management
+PGP in Technology and Business Management
+PGP in Technology & Business Management
+PGP in Human Resources & Organisation
+PGP in Sports Management & Gaming
+PGP in Applied AI & Agentic Systems
+PGP in UI/UX & AI Product Design
+PGP in Sustainability & Business Management
+PGP in Capital Markets and Trading
+PGP in Entrepreneurship and Business Acceleration
+PGP Rise: General Management (Global)
+Bloomberg Equity Research Programme
+PGP Rise: Owners and Promoters Management
+PGP in Entrepreneurship and Business Acceleration
+The Report will be downloaded shortly.
+Feel free to write to us at pgadmissions@mastersunion.org
+or call on +91 89293 61765 in case of any queries.
+Feel free to write to us at pgadmissions@mastersunion.org
+or call on +91 89293 61765 in case of any queries.
+The Report will be downloaded shortly.
+Feel free to write to us at ugadmissions@mastersunion.org
+or call on +91 76691 86660 in case of any queries.
+Feel free to write to us at ugadmissions@mastersunion.org
+or call on +91 76691 86660 in case of any queries.
+The Report will be downloaded shortly.
+Feel free to write to us at ugadmissions@mastersunion.org
+or call on +91 76691 86660 in case of any queries.
+Feel free to write to us at ugadmissions@mastersunion.org
+or call on +91 76691 86660 in case of any queries.
+The Report will be downloaded shortly.
+Feel free to write to us at ugadmissions@mastersunion.org
+or call on +91 76691 86660 in case of any queries.
+Feel free to write to us at ugadmissions@mastersunion.org
+or call on +91 76691 86660 in case of any queries.
+The brochure will be downloaded shortly.
+Feel free to write to us at ugadmissions@mastersunion.org
+or call on +91 76691 86660 in case of any queries.
+Feel free to write to us at ugadmissions@mastersunion.org
+or call on +91 76691 86660 in case of any queries.
+The report will be downloaded shortly.
+Feel free to write to us at ugadmissions@mastersunion.org
+or call on +91 76691 86660 in case of any queries.
+Feel free to write to us at ugadmissions@mastersunion.org
+or call on +91 76691 86660 in case of any queries.
+The brochure will be downloaded shortly.
+Feel free to write to us at ugadmissions@mastersunion.org
+or call on +91 76691 86660 in case of any queries.
+Feel free to write to us at ugadmissions@mastersunion.org
+or call on +91 76691 86660 in case of any queries.
+A hands-on 15 month programme where you build AI agents every term.
+Weekday offline for graduates; Weekend online designed for
+For graduates and professionals with up to 5 years of
+Including live projects & Internship
+Build an AI-powered chatbot for customer support
+Python | R | SQL | TensorFlow | PyTorch | Scikit-learn | Keras
+Build an autonomous AI agent to automate real business
+Agents | Tool Use | APIs | FastAPI | LangChain | Function
+Detect fraud in transaction data using classification
+Decision Trees | Random Forests | SVM | XGBoost | LightGBM
+Develop a sales forecasting model for retail businesses
+Regression | Time Series Forecasting | Anomaly Detection |
+K-Means Clustering | Scikit-learn
+Fine-tune a recommendation engine for an e-commerce site
+Hyperparameter Tuning | Cross-Validation | Model Ensembling |
+Build a fairness analysis tool for hiring algorithms
+Bias Mitigation | Fairness in AI | Interpretability | Model
+Transparency | Scikit-learn | Data Privacy (GDPR)
+Optimize supply chain logistics using reinforcement
+Reinforcement Learning | Q-Learning | TensorFlow | Keras |
+Build an AI-powered chatbot for customer support
+Python | R | SQL | TensorFlow | PyTorch | Scikit-learn | Keras
+Build an autonomous AI agent to automate real business
+Agents | Tool Use | APIs | FastAPI | LangChain | Function
+Detect fraud in transaction data using classification
+Decision Trees | Random Forests | SVM | XGBoost | LightGBM
+Develop a sales forecasting model for retail businesses
+Regression | Time Series Forecasting | Anomaly Detection |
+K-Means Clustering | Scikit-learn
+Fine-tune a recommendation engine for an e-commerce site
+Hyperparameter Tuning | Cross-Validation | Model Ensembling |
+Build a fairness analysis tool for hiring algorithms
+Bias Mitigation | Fairness in AI | Interpretability | Model
+Transparency | Scikit-learn | Data Privacy (GDPR)
+Optimize supply chain logistics using reinforcement
+Reinforcement Learning | Q-Learning | TensorFlow | Keras |
+Every term, build an industry-grade AI solution, from chatbots and agents
+to ML models, RAG systems, and domain-specific applications.
+Create advanced AI chatbots that solve one
+meaningful use case by combining Python,
+chatbot using basic psychological principles to help
+buddy chatbot to assist students with
+Agentic AI Accelerator for Business
+automate org workflows and integrate with live data sources.
+Develop AI agents that reduce man hours and boost team
+productivity. Examples include:
+Operations (onboarding, payroll, leave management)
+for a large IT consulting firm.
+digital marketing for an online D2C brand.
+an automotive manufacturing plant.
+AI Application in Industry: ML Consulting Garage
+Transform business data into actionable insights
+using supervised and unsupervised ML.
+insights backed by data to solve a
+company-specific problem. Examples include:
+algorithms to segment customers for companies like
+Build a churn-prediction model for a
+Develop a sales-prediction model for an
+Build powerful, domain-specific AI assistants
+using Retrieval-Augmented Generation (RAG) that deliver accurate,
+traceable answers on top of private data.
+Deploy a RAG system that answers 1,000+ product-specific
+customer queries without human intervention. Examples:
+document summariser to assist lawyers with case
+assistant to support doctors in diagnostics and
+Create an educational assistant to support
+Build and deploy domain-specific AI
+solutions that are reliable, compliant, and market-ready.
+Design industry-ready AI solutions and secure
+paying clients. Examples include:
+Create a system that automates supplier
+Develop an AI system for early disease diagnosis (e.g., cancer
+risk) through medical record analysis.
+Build a reinforcement learning–based portfolio optimisation system to
+Create advanced AI Chatbots using
+ChatGPT, Perplexity, Claude AI, &
+APIs, open source codes and training
+chatbot using psychological principles to help users
+buddy chatbot to assist students with
+Agentic AI Accelerator for Business
+that automate org workflows and
+integrate with live data sources.
+(onboarding, payroll, leave management) for a large IT consulting
+for digital marketing for an online D2C brand.
+100+ products for an automotive
+AI Application in Industry: ML Consulting Garage
+Transform business data into actionable insights
+using supervised and unsupervised ML.
+to solve a company-specific problem. Examples include:
+algorithms to segment customers
+for companies like Myntra or Zomato.
+to identify high-risk customers.
+using Retrieval-Augmented Generation (RAG) that deliver accurate,
+traceable answers on top of private data.
+Deploy a RAG system that answers
+1,000+ product-specific customer
+queries without human intervention. Examples:.
+to assist lawyers with case preparation.
+to support doctors in diagnostics and second opinions.
+to support researchers in their thesis development.
+Build and deploy domain-specific AI
+that are reliable, compliant, and market-ready.
+Design industry-ready AI solutions and secure
+3–5 real paying clients. Examples
+automates supplier selection and
+early disease diagnosis (e.g., cancer
+through medical record analysis.
+Build a reinforcement learning–based portfolio optimisation system
+Reyansh Juneja, Founder, Memotag: A hardware-AI solution
+designed to help dementia patients, which was also pitched at Shark Tank India finale.
+Kabir Teria, Founder, theGoodBrowser: A large action
+model-based AI browser that is likely to rival even Google Chrome.
+Ansh Mamgain, Founder, AIOS: An AI-based operating system that
+adapts to users rather than the other way around, much like Jarvis.
+Tanvee Maheshwari, Co-founder, SEMS: A Student Experience
+Management System, aimed to streamline student communication, updates and deadlines.
+Aashwin Dev, Founder, Bhupesh Chatbot & Elite: An AI chatbot
+that mimics professors to help classmates prep smarter and a SaaS tool for hiring already in
+Arjun, Founder, Glam Girls Dress Up Haven: A fashion-focused
+dress-up game currently in beta, already engaging over 40,000 paying users
+Experience a world-class curriculum, unparalleled
+real-world impact that will accelerate your journey to becoming an AI
+Courses taught by executives from
+and top tech companies, along with
+by global AI experts and influencers
+mentor-to-student ratio ensures personalised guidance
+curriculum emphasises application and impact.
+studies and interactive workshops
+and showcase your expertise in AI through industry-specific platforms.
+Publish your models and research on
+apart in the fast-paced AI industry.
+Learn how to communicate complex AI concepts
+Courses taught by executives from
+and top tech companies, along with
+by global AI experts and influencers
+mentor-to-student ratio ensures personalised guidance
+curriculum emphasises application and impact.
+studies and interactive workshops
+and showcase your expertise in AI through industry-specific platforms.
+Publish your models and research on GitHub
+Attract employers with high-value AI insights
+Learn how to communicate complex AI concepts
+in executive-level presentations
+Surround yourself with AI engineers, researchers, founders, and
+practitioners who ship real systems. You’ll learn in public, get feedback that actually
+moves your work forward, and grow inside a community that builds together.
+Publish on GitHub & HuggingFace
+with weekly code & model reviews.
+across real industry use cases.
+community demos & OSS showcases.
+Dr. Nandini Seth a PhD from IIM Bangalore and a founding
+faculty at Masters’ Union explores AI, jobs, and India’s tech
+Show, Masters’ Union leads the charge.
+Courses taught by 20+ AI practitioners from Amazon, Microsoft, PayPal, and MIT.
+sessions from industry leaders like Tarun
+Engage in live Q&A sessions with Global AI leaders and innovators.
+1:1 consultation with experts from Google, IBM, and leading
+Coverage and features highlighting Masters’ Union across leading media
+Immerse into our cutting-edge AI-packed
+Curriculum, tailored to showcase real-world applications and innovation.
+Master Python, math for ML, and clean coding practices to
+establish a strong technical base for everything that follows.
+How to use Python to manipulate, clean, and organize data
+How to understand data, machine learning, and AI with
+How to write clean, modular, and reproducible code
+Data Analytics & AI Foundations
+Use statistics, SQL, visualisation, and prompt engineering
+to explore data, uncover insights, and build your first functional AI
+How to use statistics to describe, summarize, and understand
+How to leverage SQL to query, filter, and join
+How to use visualisations to communicate insights with
+How to build simple chatbots using prompting and
+How to identify business problems worth solving and
+Build an end-to-end AI chatbot by identifying a concrete use
+case, engineering stable prompts, and integrating Python
+workflows with LLM APIs to deliver a functional, measurable
+Agents & Automation with Modern AI
+Learn how agent architectures, APIs, and classic
+ML methods combine to automate workflows and power real business operations.
+How to understand and apply modern agent architectures in
+How to design prompts, tool schemas, and constraints for
+How to integrate external tools into agent workflows?
+How to test, validate, and evaluate agent performance?
+How to deploy and monitor agent-based systems?
+How to use basic machine learning models to make
+How to design and run operations inside
+organisations, and decide where automation fits?
+Develop autonomous, tool-using agents that can fetch data,
+reason over it, and complete multi-step organisational
+workflows, from planning to execution, without human
+Applied Machine Learning for Real Decisions
+Build, evaluate, tune, deploy, and communicate ML models
+that directly influence business strategy and operational outcomes.
+How to use unsupervised learning to discover hidden patterns
+How to build and evaluate supervised ML models for
+How to transform raw data into ML-ready features?
+How to tune models for higher accuracy without
+How to deploy lightweight ML models as APIs?
+How to use clear communication to turn data into
+Translate a business problem into an ML decision framework,
+select and justify the right modelling approach, and deliver
+analyses that drive pricing, retention, segmentation, or
+RAG, Neural Networks & Data Engineering
+Construct scalable RAG systems, understand neural networks,
+and engineer robust data pipelines that keep AI products running reliably.
+How to use embeddings and vector databases in practice?
+How to ingest, chunk, and clean documents for
+How to deploy scalable RAG applications?
+How to build monitoring & feedback loops for RAG
+How to build machines that can see, hear, and
+understand patterns like humans?
+How to build the invisible highways that move data at
+Design and deploy a retrieval-augmented generation system
+that ingests private data, retrieves the right context,
+produces grounded outputs, and maintains accuracy under
+Domain AI & Enterprise ML Design
+Apply supervised learning, forecasting, RL, and domain
+constraints to design AI solutions that are accurate, ethical, and
+How to design AI solutions around domain constraints?
+How does the blueprint of your data system decide the
+How to prepare for ML & AI technical interviews?
+How to apply computer vision in real-world pipelines?
+How to apply reinforcement learning to real decision
+How to build streaming data pipelines and real-time
+Build domain-specific AI systems by scoping real operational
+problems, choosing appropriate modelling or RL techniques,
+handling regulatory constraints, and validating the solution
+against real business requirements.
+MLOps, Governance & AI Leadership
+Master CI/CD for ML, monitoring, system design, and
+responsible AI to deliver enterprise-grade solutions and lead AI
+How to deploy AI products reliably with CI/CD + monitoring?
+How to build AI that is powerful, fair, and
+How to prepare for ML/AI system design + behavioral
+How to design AI features for product teams (PM + AI
+How to build multimodal AI systems?
+How to harness AI for strategy, innovation, and
+Build domain-specific AI systems by scoping real operational
+problems, choosing appropriate modelling or RL techniques,
+handling regulatory constraints, and validating the solution
+against real business requirements.
+Varun Mayya visited Masters’ Union to teach students how to work
+with generative AI, covering its impact on content creation, the fundamentals behind how
+it works, and what it could mean for the future of jobs. Watch the video to know more.
+Gain insights from industry leaders on how technology is shaping
+How Microsoft and Open AI are rewriting the AI
+Dr. Nandini Seth, Professor of Data - MU
+How PwC is bringing impactful AI
+learning and the future of work
+Unlock secrets to a career in AI
+Dr. Nandini Seth a PhD from IIM Bangalore and a founding
+faculty at Masters’ Union explores AI, jobs, and India’s tech
+Show, Masters’ Union leads the charge.
+Courses taught by 20+ AI practitioners from Amazon, Microsoft, PayPal, and MIT.
+sessions from industry leaders like Tarun
+Engage in live Q&A sessions with Global AI leaders and innovators.
+1:1 consultation with experts from Google, IBM, and leading
+A bachelor’s degree with a solid foundation in logical or quantitative
+thinking. STEM backgrounds are preferred, though strong analytical aptitude from any
+1-5 years of experience, ideally in a technology, data,
+or product-driven role, demonstrating comfort with structured problem-solving and
+Should have curiosity and comfort with technology,
+shown through coding exposure, analytics tools, or other data-focused tasks.
+Capability to approach complex problems logically,
+and make reasoned conclusions, assessed through the Tech Assessment and interview.
+Share Your Background & Motivation
+Begin by filling out the online application form with your academic
+history, professional experience, and personal details.
+Academic transcripts (BCA / BTech or equivalent)
+Proof of professional experience (if applicable)
+Any certifications, projects, or achievements that strengthen
+As part of your application, please submit a 2-minute video
+introducing yourself and your journey so far. Share your
+interest in building a meaningful career in AI, why you believe
+you’re a strong fit for the programme, and how it aligns with
+your goals over the next 2–3 years.
+Keep it simple and authentic—no editing or production polish is
+required. Upload the video to Google Drive, ensure the access is
+set to “Anyone with the link can view,” and submit the link in
+Part 2 of your application form.
+Assess Your Problem-Solving & Analytical Skills
+Shortlisted candidates will be invited to take the Masters’ Union
+Scholastic Technical Test, designed to evaluate:
+The Masters’ Union Scholastic Technical Test is a timed, adaptive online
+assessment designed to evaluate your Logical Reasoning, analytical
+thinking, and problem-solving skills. Practice Test can be found here.
+Shortlisted applicants will proceed to an in-person technical interview,
+conducted by practising data scientists, AI engineers, or faculty
+Foundational reasoning around Python, data, or AI concepts
+Your curiosity, approach, and willingness to learn
+Your ability to think structurally under pressure
+The admissions committee will take a holistic view of
+your candidacy, considering your application, Scholastic Aptitude Test
+performance, technical interview, and overall fit for this intensive AI
+programme, before making a final decision. Applicants will be placed
+Candidates offered admission will receive their decision along
+structure for the upcoming programme, and will have 7–21 days to
+confirm their seat by paying the admission fee.
+Masters’ Union does not maintain a ranked waitlist. Waitlisted
+applicants will be offered admission only if seats
+open up in the cohort. The committee reconvenes regularly to
+review and promote candidates from
+the waitlist to the accepted pool.
+Applicants who are not selected may reapply to the programme in
+*$78,000 converted to INR based on the 1:90 exchange rate.
+amount will be dependent on the prevailing exchange rate at the time of study.
+Based on your academic record, professional experience, and
+personal circumstances, you may be eligible for merit-based or need-based scholarships.
+Scholarships awarded to learners who demonstrate exceptional
+academic strength, professional experience, and technical aptitude.
+Support for candidates facing financial constraints, ensuring
+talent is never limited by affordability.
+professional experience, and personal circumstances, you may be
+eligible for merit-based or need-based scholarships.
+Scholarships awarded to learners
+academic strength, professional experience, and technical aptitude.
+Scholarships awarded to learners
+academic strength, professional experience, and technical aptitude.
+Maximum merit-based programme fee received by
+Scholarships available for the postgraduate
+Loan coverage for the programme and hostel
+These Brickworks-audited results from our TBM cohorts show what learners
+achieved, and what Applied AI aims to match and go beyond.
+Our programme prepares professionals for high-growth roles in AI and
+data. From building and deploying real-world AI models to improving products and business
+decisions, graduates are ready for impactful roles across tech, finance, consulting,
+healthcare, and fast-growing startups.
+Reach out to our team at careerservices@mastersunion.org
+Reach out to our team at careerservices@mastersunion.org
+Master public speaking fears, build executive presence, and command respect through
+Cultivate influence through blogging, podcasting, personal websites, and building
+Network with dream company executives and excel at job interviews through multiple
+Director & CEO, Mekosha Ayurveda
+Witnessing their child evolve into a confident, ambitious,
+industry-ready professional is every parent’s dream. At Masters’ Union, our hands-on,
+immersive approach ensures that students not only excel academically but also develop
+real-world skills, leadership qualities, and an entrepreneurial mindset. Hear from
+parents who have seen this transformation first-hand.
+Jayshree Periwal High School, Jaipur
+“In my 1st year at Masters' Union, I
+am doing 3 internships, heading events, and building two
+businesses, simultaneously. In 6 months, I have honed so many skills.“
+Indus International School, Bangalore
+“I believe that the value Masters' Union
+offers with their practitioners and industry experts as faculty
+distinguishes learning from others, even those abroad.“
+"I have had the opportunity to learn
+from professors of Harvard, Wharton, and Stanford and even CEOs
+of unicorn companies. Their perspectives helped me understand
+how businesses scale globally.“
+The Sanskaar Valley School, Bhopal
+“When I got to know about Masters' Union,
+I knew this was where I wanted to go. And trust me, seeing my skills
+and confidence grow in just a few months, I have never been more
+Billabong High International School, Noida
+“The professors here are not just ordinary
+professors; they are real-life business leaders who teach you via their
+own experiences and experiments in the business world.“
+Sarala Birla Gyan Jyoti School, Guwahati
+“I am 18, and I am already running a
+business. From launching my startup, to vendor negotiations, getting
+customer feedback and earning revenue & profits, it has been an
+“Our campus is literally the best,
+from bumping into CEOs in the elevator to having big industry
+giants like Samsung & Aviva right across the floor, the
+environment fosters you to become a business leader from Day 1.“
+“From having CXO sessions during the
+day to evenings filled with dance practices, the entire day is
+packed with learning and experiences that has helped me
+Sat Paul Mittal School, Ludhiana
+“Multiple CXO sessions such as the
+one with Kavin Bharti Mittal, Founder and CEO of Hike,
+helped me grasp insights about building businesses and taking risks.“
+“The peer group at Masters' Union
+is so diverse and enriching. There’s a Taekwondo blackbelt,
+an International Basketball player, a trader managing
+portfolio of crores, and a Shark Tank India contestant studying with
+We proudly showcase the diverse states represented by our
+campus is a melting pot of vibrant cultures and perspectives, fostering an enriching
+Copyright @ 2026 Masters’ Union

@@ -1,0 +1,283 @@
+Bloomberg Equity Research Programme
+
+The Bloomberg Equity Research Programme is a hands-on, Bloomberg-powered learning experience designed to train participants in professional financial market analysis. The programme focuses on teaching participants how to analyse financial markets, build research workflows, and extract insights from live Bloomberg data.
+
+Participants learn how institutional investors and analysts use Bloomberg tools to conduct equity research, interpret macroeconomic signals, and monitor global financial markets.
+
+Programme Overview
+Format
+
+Hybrid learning format combining theory sessions with practical Bloomberg lab work.
+
+Duration
+
+The programme has two learning components:
+
+12 months of core theory sessions (conducted once per month)
+
+24 months of dedicated Bloomberg Lab access
+
+Commencement Date
+
+April 2026
+
+Core Theory Sessions begin in April 2026
+
+Bloomberg Lab access is available immediately after enrollment
+
+Designed For
+
+The programme is intended for professionals and aspiring finance specialists, including:
+
+Investors
+
+Traders
+
+Brokers
+
+Financial analysts
+
+Asset managers
+
+Learning Approach
+
+The curriculum mirrors the workflow of a professional financial analyst. Each module reflects a real-world finance function and teaches participants how to perform research using Bloomberg tools.
+
+Participants learn to:
+
+Extract market data
+
+Analyse companies and sectors
+
+Track macroeconomic developments
+
+Monitor cross-asset relationships
+
+Build professional research dashboards
+
+The programme emphasises live data analysis and research-based decision-making.
+
+Core Learning Areas
+
+Participants gain exposure to multiple aspects of financial market research, including:
+
+Bloomberg terminal navigation and workflows
+
+Market data extraction and validation
+
+Company-level financial analysis
+
+Macroeconomic analysis and policy tracking
+
+Fixed income and interest rate analytics
+
+Excel integration for financial modelling
+
+Market news and event-driven analysis
+
+Sector and industry performance analysis
+
+Global markets and cross-asset correlations
+
+Market monitoring and dashboard creation
+
+End-to-end Bloomberg research workflows
+
+Monthly Curriculum Structure
+
+The programme is divided into 12 monthly modules, each focused on a specific aspect of Bloomberg-based research.
+
+Month 1: Navigating the Bloomberg Terminal
+
+Participants learn the core structure of the Bloomberg system.
+
+Key topics include:
+
+Understanding Bloomberg’s command structure
+
+Navigating between different functions efficiently
+
+Organising screens and saving workspaces for regular use
+
+Month 2: Extracting Equity and Index Data
+
+This module focuses on retrieving market data for research purposes.
+
+Participants learn how to:
+
+Extract historical price and volume data for Indian equities and indices
+
+Select appropriate time periods and data frequency
+
+Adjust data for corporate actions such as dividends and splits
+
+Month 3: Bloomberg Excel Integration
+
+Participants learn how to integrate Bloomberg data into Excel workflows.
+
+Topics include:
+
+Using the Bloomberg Excel Add-In
+
+Structuring Excel sheets for prices and returns
+
+Managing live data feeds versus static datasets
+
+Month 4: Firm-Level Financial Research
+
+This module introduces company-level financial analysis.
+
+Participants learn how to:
+
+Extract financial statements and ratios for listed companies
+
+Standardise financial data across multiple firms
+
+Build peer comparison frameworks for Indian companies
+
+Month 5: Sector and Industry Analysis
+
+Participants learn to analyse sector performance.
+
+Key topics include:
+
+Using sector classifications and indices
+
+Comparing sector performance across economic cycles
+
+Identifying market-leading companies using Bloomberg metrics
+
+Month 6: Macroeconomic Market Signals
+
+This module focuses on understanding macroeconomic factors influencing markets.
+
+Participants learn how to:
+
+Access Indian macroeconomic indicators
+
+Track RBI policy decisions and economic calendars
+
+Interpret macroeconomic trends alongside market behaviour
+
+Month 7: Fixed Income Market Analysis
+
+Participants explore bond markets and interest rate dynamics.
+
+Topics include:
+
+Accessing government bond yields and benchmarks
+
+Reading yield curves and spread relationships
+
+Interpreting interest rate expectations
+
+Month 8: Cross-Asset Market Linkages
+
+This module examines relationships between global asset classes.
+
+Participants learn how to:
+
+Track commodities and currency pairs
+
+Understand transmission channels between global markets and India
+
+Analyse cross-asset correlations
+
+Month 9: News and Event Analysis
+
+This module focuses on linking news flow to market behaviour.
+
+Participants learn how to:
+
+Track corporate announcements and macroeconomic events
+
+Build event timelines using Bloomberg tools
+
+Analyse price reactions to major news developments
+
+Month 10: Event-Based Market Research
+
+Participants conduct event-driven financial analysis.
+
+Key topics include:
+
+Studying price movements around important events
+
+Defining observation windows for research
+
+Comparing outcomes across similar events
+
+Month 11: Market Monitoring Dashboards
+
+Participants learn to build professional dashboards.
+
+Topics include:
+
+Creating dashboards to track multiple assets
+
+Monitoring indicators across markets
+
+Customising dashboards for daily market analysis
+
+Month 12: ESG-Based Market Analysis
+
+The final module explores environmental, social, and governance signals in financial markets.
+
+Participants learn how to:
+
+Access ESG scores and disclosures
+
+Compare ESG metrics across companies and sectors
+
+Interpret ESG indicators alongside financial performance
+
+Programme Outcomes
+
+After completing the programme, participants will be able to:
+
+Use Bloomberg terminals efficiently
+
+Conduct equity and macroeconomic research
+
+Analyse market data across asset classes
+
+Build professional research dashboards
+
+Integrate Bloomberg workflows with Excel analysis
+
+Apply event-driven and ESG-based market research methods
+
+
+## Bloomberg Equity Research Programme
+
+### Key Outcomes After Completion
+
+Upon completing the **Bloomberg Equity Research Programme**, participants develop practical financial research capabilities and gain hands-on experience working with professional-grade market data tools. The programme focuses on building real analytical skills used by investors, analysts, and financial institutions.
+
+### Bloomberg Terminal Proficiency
+
+Participants build strong familiarity with Bloomberg’s workflow and command structure through consistent hands-on usage. By the end of the programme, they are able to navigate the platform efficiently and use it confidently for financial analysis and research tasks.
+
+### Working with Live Market Data
+
+Participants gain experience working with **real-time and historical multi-asset market data**, including equities, indices, bonds, commodities, and currencies. This exposure helps strengthen their research credibility and prepares them to work with the type of data used by professional trading desks and investment firms.
+
+### Applying Bloomberg to Real Financial Analysis
+
+The programme goes beyond basic navigation and focuses on applying Bloomberg tools to practical research use cases. Participants learn how to use Bloomberg data for company analysis, sector comparisons, macroeconomic tracking, and event-driven market research.
+
+### Expert-Led Learning and Mentorship
+
+Learning is guided through expert-led sessions conducted by finance professionals and Bloomberg practitioners. Participants also benefit from structured mentor interactions, which help them refine their analytical approach and understand how Bloomberg is used in real industry environments.
+
+---
+
+# Programme Fee Structure
+
+The programme fee is structured in a single payment round.
+
+| Round   | Programme Fee | Total Payable |
+| ------- | ------------- | ------------- |
+| Round 1 | INR 9,00,000  | INR 9,00,000  |
+
+The total programme fee covers access to the **core Bloomberg training sessions and the extended Bloomberg Lab usage period**.

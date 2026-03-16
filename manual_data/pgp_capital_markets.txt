@@ -1,0 +1,761 @@
+PG Programme in Capital Markets & Trading
+
+The PGP in Capital Markets & Trading is a 12-month hybrid programme designed for individuals who want to build expertise in financial markets, trading strategies, and portfolio management. The programme combines online learning with in-person weekend classes, allowing professionals to develop advanced trading skills while continuing their careers.
+
+This programme focuses on practical trading experience, portfolio management, and real market exposure, enabling participants to learn how financial markets operate and how to trade and invest strategically across different asset classes.
+
+Programme Overview
+Format
+
+Blended learning model with online sessions and in-person weekend classes.
+
+Commencement Date
+
+April 2026
+
+Duration
+
+12 months
+
+Designed For
+
+The programme is designed for individuals working or interested in the financial markets, including:
+
+Investors
+
+Traders
+
+Brokers
+
+Financial analysts
+
+Asset managers
+
+Participants gain hands-on experience in equity markets, derivatives, commodities, forex, alternative investments, and cryptocurrencies.
+
+Curriculum Structure
+
+The programme is organised into six modules, each focusing on a key area of trading and investment strategy.
+
+Module 1: Trading Stocks Like an Expert
+
+This module introduces participants to the fundamentals of capital markets and equity trading.
+
+Key topics include:
+
+Understanding how global financial markets operate
+
+Exploring the capital markets ecosystem and its participants
+
+Selecting the appropriate financial instruments for investment
+
+Evaluating investment opportunities using risk-return metrics
+
+Understanding regulatory compliance in financial markets
+
+Learning the operational dynamics of daily market trading sessions
+
+Participants gain the foundational knowledge required to analyse stocks and execute trades effectively.
+
+Module 2: Using Derivatives Safely
+
+This module focuses on derivatives trading and portfolio risk management.
+
+Participants learn:
+
+How to evaluate a company’s intrinsic value
+
+The fundamentals of futures and options trading
+
+Understanding option pricing variables such as the Greeks
+
+Using hedging strategies including covered calls and protective puts
+
+Protecting portfolios using derivatives
+
+Analysing charts and technical indicators for market predictions
+
+Implementing structured day trading strategies
+
+This module equips participants with techniques to manage risk and maximise returns through derivatives.
+
+Module 3: Diversifying into Commodities & Forex
+
+The third module introduces participants to global markets beyond equities.
+
+Topics include:
+
+Trading commodities and understanding their pricing mechanisms
+
+Forex trading fundamentals and currency market structures
+
+Leveraging spot, forward, and swap markets
+
+Applying advanced indicators to commodity and forex markets
+
+Using strategic hedging to reduce trading losses
+
+Analysing macroeconomic factors that influence financial markets
+
+Applying analytical techniques such as Volume Price Analysis (VPA) and Camarilla Pivot levels
+
+Participants learn how to diversify portfolios across multiple global asset classes.
+
+Module 4: Portfolio Hedging & Risk Management
+
+This module focuses on advanced financial risk management techniques used by professional investors.
+
+Participants study:
+
+Stress-testing portfolios using Value at Risk (VaR) and scenario analysis
+
+Using exotic derivatives for complex hedging strategies
+
+Managing portfolios through dynamic hedging techniques
+
+Understanding structured financial instruments such as CDOs and ABS
+
+Applying volatility metrics to investment decisions
+
+Designing stochastic models for risk assessment and forecasting
+
+These techniques help traders protect investments during volatile market conditions.
+
+Module 5: Alternative Investments
+
+Participants explore alternative asset classes beyond traditional financial markets.
+
+Key topics include:
+
+Investing in real estate through Real Estate Investment Trusts (REITs)
+
+Diversifying portfolios using alternative investments
+
+Sustainable investing using ESG metrics and green bonds
+
+Identifying investment opportunities driven by urbanisation and technology
+
+Understanding behavioural finance and overcoming cognitive investment biases
+
+This module helps participants build diversified investment portfolios.
+
+Module 6: Cryptocurrency & Global Capital Flows
+
+The final module explores digital assets and global financial systems.
+
+Participants learn:
+
+Fundamentals of blockchain technology and cryptocurrencies
+
+Trading strategies for major cryptocurrencies such as Bitcoin and Ethereum
+
+Risk management techniques for crypto trading
+
+Analysing global capital flows and international financial movements
+
+Understanding taxation and regulatory aspects of global investments
+
+The module provides insights into emerging digital financial markets.
+
+Practical Learning & Real Market Exposure
+
+A key highlight of the programme is its focus on hands-on trading and real investment experience.
+
+Masters’ Union Investment Fund
+
+Participants actively invest in public markets through a ₹40 lakh investment fund provided by the institution.
+
+Students make real investment decisions and manage capital under supervision.
+
+The programme reports that student portfolios have historically outperformed benchmark indices such as the Sensex and Nifty, generating strong realised returns.
+
+₹10 Crore AUM Wealth Management Challenge
+
+Participants also learn how to establish a wealth management firm.
+
+This initiative teaches:
+
+Compliance and regulatory setup for investment firms
+
+Client acquisition strategies
+
+Raising funds from high-net-worth individuals (HNIs)
+
+Managing client portfolios
+
+The challenge aims to help participants build ₹10 crore in Assets Under Management (AUM) within one year.
+
+Trader Coaching
+
+Participants receive one-to-one mentorship from experienced traders and hedge fund managers.
+
+Mentors help students:
+
+Improve trading strategies
+
+Avoid common investment mistakes
+
+Review portfolio performance regularly
+
+Build professional networks in the trading industry
+
+Finance Content Creation Challenge
+
+The programme also focuses on building a professional reputation in the finance industry.
+
+Participants are encouraged to:
+
+Launch finance podcasts on platforms like YouTube or Instagram
+
+Share expert insights on LinkedIn or X (Twitter)
+
+Build an online presence as a trusted financial expert
+
+This helps participants attract investors, clients, and professional opportunities.
+
+PG Programme in Capital Markets & Trading
+Detailed Curriculum Structure
+
+The PGP in Capital Markets & Trading is structured into six progressive modules, each designed to build expertise across different financial markets, trading strategies, and portfolio management techniques. The programme integrates classroom learning, practical trading exercises, financial tools training, and capstone projects to ensure participants develop both theoretical knowledge and real-world trading experience.
+
+Module 1: Foundations of Capital Markets
+
+This module introduces participants to the core structure of financial markets and investment analysis.
+
+In-Class Learning
+
+Participants begin by understanding how the global capital markets ecosystem operates.
+
+Key topics include:
+
+Capital Markets Ecosystem
+
+Roles of brokers, exchanges, institutional investors, regulators, and market makers
+
+Price discovery mechanisms including bid-ask spreads, supply-demand shifts, and market depth
+
+Order types, volatility controls, and trading mechanics
+
+Structure and behaviour of stock market indices
+
+Financial Instrument Selection
+
+Risk-return optimization using Efficient Frontier principles
+
+Asset allocation across equities, bonds, and derivatives
+
+Risk profiling and aligning instruments with investor objectives
+
+Company Valuation
+
+Reading financial statements and analysing profitability ratios
+
+Valuation techniques such as Discounted Cash Flow (DCF) and relative valuation multiples
+
+Interpreting quarterly earnings results
+
+Industry benchmarking and peer comparison
+
+Investment Risk Analysis
+
+Risk-adjusted return metrics including Sharpe ratio, Treynor ratio, Jensen’s Alpha, and Sortino ratio
+
+Portfolio risk estimation using Value at Risk (VaR) and Conditional VaR
+
+Stress testing and downside risk analysis
+
+Technical Analysis
+
+Participants learn price prediction techniques using chart patterns and indicators:
+
+Candlestick patterns such as Hammer, Engulfing, Doji, and Shooting Star
+
+Support and resistance analysis
+
+RSI divergence and volume indicators
+
+Complex chart formations including Three Soldiers and Tower patterns
+
+Opening Bell Trading Strategies
+
+Pre-market analysis
+
+Market sentiment indicators
+
+Gap trading strategies
+
+Scalping and volatility-based trading techniques
+
+Out-Class Activity
+
+Equity Hackathon with Masters’ Union Investment Fund
+
+Participants invest and trade using ₹40 lakh real capital in the Masters’ Union investment fund. They design trading strategies, conduct equity valuations, and present risk mitigation frameworks.
+
+Tool Training
+
+Students learn market analysis using:
+
+TradingView
+
+Chartink
+
+These platforms help identify trends, analyse charts, and track securities.
+
+Capstone Project
+
+Participants execute a systematic trading strategy challenge, documenting trade logic, entry and exit rules, and evaluating performance using risk-adjusted metrics.
+
+Module 2: Equity and Derivative Markets
+
+This module focuses on advanced trading strategies in equity and derivatives markets.
+
+In-Class Learning
+
+Quantitative Trading Strategies
+
+Market data analysis and volatility calculations
+
+Momentum and mean-reversion trading strategies
+
+Designing systematic trading rules
+
+Backtesting strategies and managing portfolio risk
+
+Futures and Options Trading
+
+Participants learn the fundamentals of derivatives markets:
+
+Futures contracts and leveraged positions
+
+Options strategies including calls and puts
+
+Understanding the Greeks (Delta, Gamma, Theta, Vega)
+
+Optimizing risk-reward trade setups
+
+Portfolio Hedging Strategies
+
+Covered calls and protective puts
+
+Volatility strategies such as straddles and strangles
+
+Neutral strategies like iron condors and butterflies
+
+Risk-parity portfolio management
+
+Swing Trading Strategies
+
+Moving averages and breakout strategies
+
+RSI divergence signals
+
+Bollinger band volatility analysis
+
+Stop-loss frameworks and position sizing
+
+Day Trading Techniques
+
+Participants learn multiple intraday strategies including:
+
+Breakout trading
+
+Opening range breakout
+
+Parabolic reversal strategies
+
+ABCD trading pattern
+
+Regulatory Compliance
+
+Students understand global trading regulations including:
+
+SEBI
+
+SEC
+
+MiFID II
+
+KYC, AML, and FATCA compliance frameworks
+
+Out-Class Activity
+
+Creatorpreneur Challenge
+
+Participants build a personal finance brand by creating content explaining financial markets on platforms such as LinkedIn and YouTube.
+
+Tool Training
+
+Participants learn Python for Financial Data Analysis, including:
+
+Writing Python programs using loops and functions
+
+Data analysis with Pandas and NumPy
+
+Visualizing financial trends using Matplotlib
+
+Capstone Project
+
+Students design an event-driven trading strategy based on real market events.
+
+Module 3: Commodities and Forex Trading
+
+This module explores global financial markets beyond equities.
+
+In-Class Learning
+
+Commodity Markets
+
+Participants learn how commodity markets function, including:
+
+Supply-demand drivers such as weather, geopolitics, and production
+
+Commodity futures trading and margin mechanisms
+
+Hedging price risks using derivatives
+
+Forex Markets
+
+Students learn currency trading strategies:
+
+Spot, forward, and swap currency markets
+
+Carry trades and contrarian strategies
+
+Managing leverage and margin risks
+
+Advanced Technical Indicators
+
+RSI and stochastic oscillators
+
+Bollinger Bands volatility analysis
+
+Fibonacci retracements and extensions
+
+Money flow indicators
+
+Strategic Hedging
+
+Participants explore risk mitigation techniques including:
+
+Futures hedging
+
+Currency options and swaps
+
+Volatility hedging using VIX futures
+
+Macroeconomic Analysis
+
+Participants evaluate macroeconomic drivers of markets such as:
+
+Central bank policies
+
+Inflation trends
+
+Global geopolitical events
+
+Out-Class Activity
+
+Participants expand their financial content brand through advanced digital marketing strategies and collaborations.
+
+Tool Training
+
+Students learn advanced Python financial modelling techniques, including automated data analysis and market data extraction using APIs.
+
+Capstone Project
+
+Participants develop a macro-to-asset trading strategy, linking macroeconomic conditions to commodity and currency trades.
+
+Module 4: Advanced Risk Management and Derivatives
+
+This module focuses on advanced portfolio risk modelling and derivatives strategies.
+
+In-Class Learning
+
+Risk Modelling Techniques
+
+Participants study advanced risk models including:
+
+Historical VaR simulations
+
+Monte Carlo risk modelling
+
+Parametric VaR methods
+
+Scenario analysis for extreme events
+
+Exotic Derivatives
+
+Students explore complex financial instruments including:
+
+Barrier options
+
+Asian options
+
+Lookback options
+
+Swaptions and compound options
+
+Dynamic Hedging Strategies
+
+Participants learn professional portfolio hedging methods including:
+
+Delta hedging
+
+Gamma scalping
+
+Vega hedging
+
+Constant Proportion Portfolio Insurance (CPPI)
+
+Volatility Trading
+
+ARCH and GARCH volatility models
+
+Volatility arbitrage strategies
+
+VIX futures trading
+
+Stochastic Risk Models
+
+Students apply stochastic modelling techniques such as:
+
+Brownian motion
+
+Monte Carlo simulation
+
+Behavioural Finance
+
+Participants also learn psychological aspects of trading including cognitive biases and trader psychology.
+
+Out-Class Activity
+
+Students design and establish a wealth management firm prototype, including regulatory compliance and operational frameworks.
+
+Tool Training
+
+Students use MATLAB and Simulink to build financial models and simulate financial systems.
+
+Capstone Project
+
+Participants build a complete derivatives portfolio hedging framework, demonstrating how layered hedging strategies reduce portfolio risk.
+
+Module 5: Real Estate and Alternative Investments
+
+This module explores alternative asset classes.
+
+In-Class Learning
+
+REIT Investments
+
+Participants learn how to evaluate real estate investments using:
+
+Net Asset Value (NAV)
+
+Funds from Operations (FFO)
+
+Capitalisation rates
+
+Alternative Asset Classes
+
+Students explore diversification strategies including:
+
+Private equity
+
+Hedge funds
+
+Distressed assets
+
+ESG Investing
+
+Participants learn sustainable investment strategies including:
+
+ESG metrics evaluation
+
+Green bond investments
+
+Real Estate Market Trends
+
+Students analyse urbanisation trends, smart cities, and technology-driven real estate investment opportunities.
+
+Bond Market Trading
+
+Participants also study fixed-income trading including yield curve analysis and bond pricing strategies.
+
+Tool Training
+
+Participants learn to use Bloomberg Terminal tools for financial market analysis and macroeconomic tracking.
+
+Capstone Project
+
+Students develop a real estate investment evaluation framework, integrating financial modelling and macroeconomic analysis.
+
+Module 6: Cryptocurrency, Private Equity & Global Investment Strategy
+
+The final module explores emerging financial markets and global capital flows.
+
+In-Class Learning
+
+Blockchain Fundamentals
+
+Participants learn how decentralised systems work and how cryptocurrencies operate.
+
+Crypto Trading Strategies
+
+Students learn advanced trading techniques including:
+
+Futures and margin trading in crypto markets
+
+Short- and long-term crypto trading strategies
+
+Bitcoin and Ethereum Markets
+
+Participants explore drivers of major cryptocurrencies including:
+
+Halving cycles
+
+Network upgrades
+
+Adoption trends
+
+Private Equity & Venture Capital
+
+Students learn how to evaluate PE and VC deals and identify investment signals from startup funding events.
+
+Global Capital Flows
+
+Participants analyse:
+
+Foreign direct investment trends
+
+Balance of payments data
+
+Global liquidity shifts
+
+Global Investment Taxation
+
+Students learn cross-border investment taxation frameworks including:
+
+Double Taxation Agreements
+
+FATCA and CRS compliance
+
+Out-Class Activity
+
+Students continue building their wealth management firm pilot, targeting high-net-worth investors.
+
+Tool Training
+
+Participants use Bloomberg advanced analytics tools to conduct peer comparisons, valuation analysis, and market event simulations.
+
+Capstone Project
+
+Participants conduct a venture capital deal evaluation, build a term sheet, and develop an investment thesis.
+
+PGP in Capital Markets & Trading
+Application Timeline & Admissions Process (Cohort 3)
+
+The admissions process for the PGP in Capital Markets & Trading programme follows a structured multi-stage evaluation designed to assess applicants’ interest in financial markets, analytical ability, and potential to succeed in trading and investment careers.
+
+The process consists of application submission, interview evaluation, and final admission decision.
+
+Application Rounds
+Round 1
+
+Application Deadline: 25 February 2026
+
+Interview Period: March 2026
+
+Application Fee: INR 500
+
+Status: Closed
+
+Round 2
+
+Application Deadline: 6 April 2026
+
+Interview Period: March–April 2026
+
+Application Fee: INR 500
+
+Status: Active
+
+Applicants must submit their application before the deadline of the respective round to be considered.
+
+Stage 1: Complete the Application
+
+Applicants begin the admissions process by submitting an online application form.
+
+Required Information
+
+The application requires candidates to provide:
+
+Personal details
+
+Professional details including work background and experience
+
+This stage helps the admissions committee understand the candidate’s background and interest in capital markets and trading.
+
+Stage 2: Online Interview
+
+Shortlisted applicants are invited for an online interview.
+
+Purpose of the Interview
+
+The interview allows the admissions panel to:
+
+Evaluate the applicant’s interest in trading and financial markets
+
+Understand their professional background and analytical skills
+
+Assess their motivation for joining the programme
+
+Interview Panel
+
+The interview panel typically includes:
+
+Academic faculty members
+
+Industry professionals and market experts
+
+Members of the Masters’ Union admissions team
+
+Applicants also gain an opportunity to understand the programme structure, learning approach, and career outcomes.
+
+Stage 3: Final Admission Decision
+
+After the interview process, the admissions office reviews the candidate’s profile.
+
+The final evaluation considers:
+
+Application form and professional details
+
+Interview performance
+
+Overall suitability for the programme
+
+The final decision is made by the Admissions Committee.
+
+Applicants are informed about the result through official email communication.
+
+Decision Timeline
+
+The entire admissions process typically takes up to four weeks from the application deadline.
+
+Fee Structure
+
+The total programme fee consists of an admission fee and tuition fee.
+
+Admission Fee (Non-Refundable)
+
+INR 50,000
+
+This fee is payable after receiving and accepting the admission offer.
+
+Tuition Fee
+
+INR 20,50,000
+
+Total Programme Fee
+
+INR 21,00,000

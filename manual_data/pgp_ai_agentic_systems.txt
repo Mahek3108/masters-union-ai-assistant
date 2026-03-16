@@ -1,0 +1,658 @@
+## PGP in Applied AI & Agentic Systems
+
+### Program Overview
+
+The Postgraduate Programme (PGP) in Applied AI & Agentic Systems is a **15-month hands-on programme** designed to help students and professionals build practical expertise in **artificial intelligence, machine learning, and autonomous AI agents**. The programme focuses on learning through real-world projects where participants design, build, and deploy AI systems across multiple industry use cases.
+
+Unlike traditional AI courses that focus primarily on theory, this programme emphasises **practical implementation**. Participants build **AI chatbots, autonomous agents, machine learning models, and Retrieval-Augmented Generation (RAG) systems** while learning how these technologies can be applied in industries such as retail, healthcare, finance, and enterprise operations.
+
+The programme combines **technical training, industry mentorship, and portfolio development**, enabling learners to graduate with deployable AI systems and a strong professional presence in the AI ecosystem.
+
+---
+
+## Programme Format and Duration
+
+The programme runs for **15 months** and offers two learning formats designed to suit both fresh graduates and working professionals.
+
+### Programme Duration
+
+* **Duration:** 15 months
+* **Cohort Start:** June 2026
+* **Includes:** Live projects, industry applications, and internship opportunities
+
+### Learning Formats
+
+#### Offline Weekday Programme
+
+The offline format is designed for **fresh graduates** who want a full-time immersive learning experience.
+
+Key characteristics include:
+
+* On-campus learning in **Gurugram** during weekdays
+* Access to AI labs, studios, and collaborative workspaces
+* Team-based agent building and daily collaboration sessions
+* Participation in hackathons, build sprints, and coding sessions
+* Internship and placement support for first-time job seekers
+
+This format is intended for students with a **BCA, B.Tech, or computer science–related degree**, including final-year students and recent graduates.
+
+---
+
+#### Online Weekend Programme
+
+The online format is designed for **working professionals** who want to transition into applied AI roles while continuing their current jobs.
+
+Key characteristics include:
+
+* **Live weekend classes** combined with flexible weekday assignments
+* Self-paced learning modules that fit alongside a full-time job
+* Opportunities to build AI solutions directly for one's workplace
+* Career transition support for professionals shifting into AI-focused roles
+
+---
+
+## Eligibility Criteria
+
+The programme is designed for individuals with technical backgrounds who want to develop expertise in applied AI.
+
+Eligible applicants include:
+
+* Candidates with **BCA or B.Tech degrees**
+* Individuals with **computer science or technology-related academic backgrounds**
+* **Fresh graduates** entering the AI workforce
+* **Working professionals with up to 5 years of experience**
+
+---
+
+## Project-Based Learning Approach
+
+A defining feature of the programme is that students **build real AI systems every term**. The curriculum is structured so that each term focuses on creating an industry-grade AI solution.
+
+### Term-Based AI Development
+
+* **Term 1:** Develop AI tools
+* **Term 2:** Apply AI solutions in industry contexts
+* **Term 3:** Build advanced AI tools
+* **Term 4:** Implement AI solutions in real business scenarios
+* **Terms 5–6:** Develop advanced AI systems and domain applications
+
+This progression ensures that participants gradually move from building foundational tools to designing **complex, production-ready AI systems**.
+
+---
+
+# Core AI Projects and Learning Modules
+
+## Applied AI Chatbot Challenge
+
+In this challenge, participants build **AI-powered conversational systems** capable of solving real-world problems. These chatbots combine programming, large language models, and automation tools to create intelligent user experiences.
+
+Example chatbot applications include:
+
+* A **mental wellbeing chatbot** designed to help users manage stress and anxiety using psychological principles
+* A **study assistant chatbot** that helps students understand subjects and solve academic doubts
+* A **customer support chatbot** capable of answering FAQs and handling product queries
+
+### Skills and Technologies Covered
+
+Participants learn essential technical skills such as:
+
+* Integration with **LLM APIs (e.g., OpenAI or equivalent)**
+* Data handling using **Python libraries such as Pandas**
+* **Prompt engineering and conversational interface design**
+* Chatbot workflow design and automation testing
+
+---
+
+## Agentic AI Accelerator for Business
+
+This module focuses on building **autonomous AI agents capable of executing tasks, integrating tools, and automating workflows**.
+
+Participants design AI systems that interact with business tools and databases to improve operational efficiency.
+
+Example applications include:
+
+* Automating **HR operations** such as onboarding, payroll processing, and leave management
+* Generating **marketing creatives and campaign assets** for digital advertising
+* Automating **procurement workflows** for manufacturing companies handling large inventories
+
+### Skills and Technologies Covered
+
+Participants develop expertise in:
+
+* Workflow automation and process analysis
+* Autonomous agent architecture
+* Data engineering and data wrangling
+* API integration with enterprise tools
+* Data visualisation for operational decision-making
+
+---
+
+## Machine Learning Consulting Garage
+
+In this module, participants learn how to apply **machine learning techniques to solve real business problems using data**.
+
+Example projects include:
+
+* Segmenting customers using **clustering algorithms** for companies such as e-commerce platforms or food delivery services
+* Building **customer churn prediction models** for subscription businesses
+* Creating **sales forecasting models** to optimise marketing spending
+
+### Skills and Techniques Covered
+
+Participants gain experience in:
+
+* Supervised and unsupervised learning models
+* Exploratory data analysis
+* Feature engineering and data preprocessing
+* Model evaluation and interpretation
+* Translating machine learning results into business insights
+
+---
+
+## Retrieval-Augmented Generation (RAG) System Building
+
+This module focuses on developing **AI assistants that combine large language models with external knowledge sources** to deliver accurate and traceable responses.
+
+Participants build domain-specific assistants that operate on private datasets.
+
+Example systems include:
+
+* A **legal document summarisation assistant** to support lawyers during case preparation
+* A **medical diagnostic assistant** that helps doctors analyse patient data
+* An **academic research assistant** that helps scholars organise and analyse research material
+
+### Skills and Technologies Covered
+
+Participants learn:
+
+* Retrieval-Augmented Generation architecture
+* Embeddings and vector indexing
+* Query optimisation and prompt orchestration
+* LLM fine-tuning techniques
+* Monitoring and evaluating AI system performance
+
+---
+
+## AI Immersion in Industry Domains
+
+The programme concludes with domain-specific AI development projects where participants build solutions for real industry applications.
+
+Example use cases include:
+
+* AI systems that automate **inventory management and supplier selection** for retail companies
+* AI-powered healthcare systems that assist in **early disease diagnosis**
+* **Reinforcement learning models** that optimise investment portfolios in finance
+
+### Skills Covered
+
+Participants develop expertise in:
+
+* Data architecture and scalable AI systems
+* Reinforcement learning
+* Predictive modelling
+* AI governance and ethical considerations
+* Industry-specific regulatory constraints
+
+---
+
+## Faculty and Mentorship
+
+Participants learn from **AI engineers, CTOs, and industry practitioners from leading technology companies**, including experts associated with global firms such as Microsoft and Google.
+
+Key mentorship elements include:
+
+* **One-on-one mentorship sessions** with AI leaders from companies such as Amazon
+* Masterclasses delivered by global AI experts
+* A **1:5 mentor-to-student ratio**, ensuring personalised guidance and feedback
+
+---
+
+## Curriculum Development and Industry Collaboration
+
+The programme curriculum has been **co-developed with industry organisations such as PwC, Ola Krutrim, and Rabbit AI**. This collaboration ensures that the learning content reflects real industry requirements and emerging trends in AI development.
+
+Students work on **industry-standard tools and datasets**, while solving real business problems through case studies, workshops, and project-based learning.
+
+---
+
+## Personal Branding and Career Development
+
+In addition to technical training, the programme helps participants build a **strong professional presence in the AI community**.
+
+Students are encouraged to:
+
+* Publish AI models and research projects on **GitHub and HuggingFace**
+* Share insights and learning experiences on platforms such as **LinkedIn and YouTube**
+* Develop portfolios that demonstrate their technical expertise to potential employers
+
+---
+
+## Communication and Leadership Development
+
+The programme also focuses on developing essential **soft skills required for leadership roles in the AI industry**.
+
+Participants learn how to:
+
+* Communicate complex AI concepts to technical and non-technical audiences
+* Present AI solutions to executives and decision-makers
+* Lead interdisciplinary teams working on AI products and platforms
+
+---
+
+## Collaborative AI Community
+
+Students become part of a community of **AI engineers, researchers, founders, and practitioners** who collaborate on real systems and open-source projects.
+
+Community-driven learning activities include:
+
+* Publishing AI models on **GitHub and HuggingFace**
+* Working in small collaborative teams with weekly code reviews
+* Building **six deployable AI agents across multiple industries**
+* Participating in community demos and open-source showcases
+
+---
+
+## Learning Outcome
+
+By the end of the programme, participants graduate with:
+
+* Strong expertise in **applied AI and autonomous agent development**
+* Hands-on experience with **machine learning, LLM systems, and RAG architectures**
+* A portfolio of **deployable AI solutions and real-world projects**
+* Industry mentorship and practical knowledge of AI implementation in business environments
+
+This combination of **technical training, industry collaboration, and project-based learning** prepares graduates to pursue roles such as **AI engineer, machine learning engineer, applied AI specialist, AI product developer, or AI consultant**.
+
+
+## Curriculum Structure – PGP in Applied AI & Agentic Systems
+
+The curriculum of the PGP in Applied AI & Agentic Systems is structured across **six academic terms (including a preparatory Term 0)**. The programme is designed to progressively develop expertise in **programming, machine learning, AI agents, RAG systems, enterprise AI deployment, and MLOps**.
+
+Each term combines **core technical learning with real-world projects**, ensuring that participants develop practical capabilities in building deployable AI systems used in modern industries.
+
+---
+
+# Term 0: Foundations of Programming
+
+The programme begins with a preparatory foundation term that focuses on **building strong programming and mathematical fundamentals** required for machine learning and AI development.
+
+This stage ensures that all participants develop the technical base needed to work with modern AI tools and frameworks.
+
+### Core Learning Areas
+
+Participants learn essential concepts such as:
+
+* Using **Python for data manipulation, cleaning, and preparation** for analytical tasks
+* Understanding the **mathematical foundations of machine learning and artificial intelligence**, including probability, linear algebra, and statistical reasoning
+* Writing **clean, modular, and reproducible code** that supports large AI and data science projects
+
+These foundational skills prepare participants for the advanced AI engineering work introduced in later terms.
+
+---
+
+# Term 1: Data Analytics and AI Foundations
+
+The first main academic term focuses on **data analytics, statistics, and foundational AI techniques**. Students learn how to work with structured data, extract insights, and build their first functional AI systems.
+
+### Core Learning Areas
+
+Participants develop capabilities in:
+
+* Applying **statistical methods** to analyse and interpret datasets
+* Using **SQL** to query, filter, and join large datasets efficiently
+* Creating **data visualisations** that communicate insights clearly to decision-makers
+* Building **basic AI chatbots** using prompt engineering and API-based LLM integration
+* Identifying real business problems that can be solved using AI-driven approaches
+
+### Practical Project
+
+Participants complete the **Applied AI Chatbot Challenge**, where they design and develop an end-to-end chatbot solution. This includes identifying a real-world use case, designing prompts, integrating Python workflows with LLM APIs, and delivering a working AI system that solves a practical problem.
+
+---
+
+# Term 2: Agents and Automation with Modern AI
+
+The second term focuses on **agent-based architectures and AI-driven workflow automation**. Students learn how modern AI agents interact with tools, APIs, and data sources to automate business processes.
+
+### Core Learning Areas
+
+Participants explore topics such as:
+
+* Designing and implementing **modern agent architectures**
+* Developing prompts, tool schemas, and system constraints to ensure reliable AI behaviour
+* Integrating external tools and APIs into agent workflows
+* Evaluating and testing agent performance
+* Deploying and monitoring agent-based systems in production environments
+* Using basic machine learning models for predictive tasks
+* Understanding how automation can improve operational workflows within organisations
+
+### Practical Project
+
+Participants work on the **Agentic AI Accelerator for Business**, where they develop autonomous AI agents capable of completing multi-step organisational workflows. These agents are designed to retrieve data, reason over information, and execute tasks without human supervision.
+
+---
+
+# Term 3: Applied Machine Learning for Real Decisions
+
+The third term introduces participants to **applied machine learning and predictive modelling**. The focus is on building ML models that support real business decisions and operational strategies.
+
+### Core Learning Areas
+
+Participants learn how to:
+
+* Use **unsupervised learning techniques** to discover hidden patterns in datasets
+* Build **supervised machine learning models** for classification and regression tasks
+* Transform raw datasets into **ML-ready features**
+* Tune machine learning models for improved accuracy while avoiding overfitting
+* Deploy lightweight ML models through **API-based services**
+* Communicate analytical insights effectively to business stakeholders
+
+### Practical Project
+
+Participants work on the **ML Consulting Garage**, where they translate business problems into machine learning solutions. Projects may involve tasks such as customer segmentation, demand forecasting, retention analysis, or pricing optimisation.
+
+---
+
+# Term 4: RAG Systems, Neural Networks and Data Engineering
+
+The fourth term focuses on **building scalable AI systems powered by Retrieval-Augmented Generation (RAG), neural networks, and robust data pipelines**.
+
+### Core Learning Areas
+
+Participants develop skills in:
+
+* Using **embeddings and vector databases** for semantic search and AI applications
+* Processing documents through **data ingestion, cleaning, and chunking pipelines**
+* Designing and evaluating RAG architectures
+* Deploying scalable RAG-based applications
+* Implementing monitoring systems and feedback loops for AI models
+* Understanding neural networks and pattern recognition in AI systems
+* Designing **data infrastructure pipelines** capable of handling large-scale AI workloads
+
+### Practical Project
+
+Participants complete the **RAG System Building Challenge**, where they design and deploy a retrieval-augmented AI system capable of answering questions using private datasets while maintaining accuracy under real-world usage conditions.
+
+---
+
+# Term 5: Domain AI and Enterprise Machine Learning Design
+
+This term focuses on **designing AI systems that operate within real industry constraints**, including regulatory requirements, domain-specific challenges, and enterprise-scale deployments.
+
+### Core Learning Areas
+
+Participants learn how to:
+
+* Design AI solutions that respect **domain-specific operational and regulatory constraints**
+* Understand how **data architecture influences AI system performance and scalability**
+* Prepare for technical machine learning and AI interviews
+* Build domain-focused AI solutions using supervised learning and predictive modelling
+
+### Elective Options
+
+Participants select one advanced elective to specialise further:
+
+* Computer vision for real-world applications
+* Reinforcement learning for decision-making systems
+* Real-time AI systems using streaming data pipelines
+
+### Practical Project
+
+Participants take part in an **AI Immersion Programme in Retail, Healthcare, and Finance**, where they design AI solutions for real operational problems. These projects involve identifying business use cases, selecting appropriate modelling approaches, and validating solutions within industry contexts.
+
+---
+
+# Term 6: MLOps, AI Governance and AI Leadership
+
+The final term focuses on **enterprise AI deployment, responsible AI practices, and leadership capabilities required to manage AI initiatives at scale**.
+
+### Core Learning Areas
+
+Participants develop expertise in:
+
+* Deploying AI products using **CI/CD pipelines and monitoring frameworks**
+* Building AI systems that are **reliable, ethical, and trustworthy**
+* Preparing for **AI system design and behavioural interviews**
+* Understanding governance frameworks for responsible AI deployment
+
+### Elective Options
+
+Participants can specialise in areas such as:
+
+* AI product design and integration for product teams
+* Multimodal AI systems
+* Strategic AI leadership and innovation
+
+### Practical Project
+
+Participants continue their **industry immersion projects**, designing domain-specific AI solutions that meet business requirements while considering ethical, regulatory, and operational constraints.
+
+---
+
+## Overall Learning Outcome
+
+By the end of the programme, participants graduate with a strong combination of:
+
+* Expertise in **Python programming, machine learning, and AI system architecture**
+* Hands-on experience building **AI chatbots, agent-based systems, ML models, and RAG applications**
+* Knowledge of **enterprise AI deployment, MLOps, and responsible AI governance**
+* A portfolio of **deployable AI systems and industry-relevant projects**
+
+This integrated approach prepares graduates to pursue roles such as **AI engineer, machine learning engineer, AI solutions architect, AI product developer, or applied AI consultant**, while also enabling them to lead AI-driven transformation initiatives within organisations.
+
+
+PGP in Applied AI & Agentic Systems
+Enrollment Checklist & Admissions Process
+
+The admissions process for the PGP in Applied AI & Agentic Systems is designed to evaluate candidates on their technical aptitude, analytical thinking, and readiness for an intensive AI programme.
+
+The evaluation follows a holistic approach, considering academic background, technical capability, and problem-solving ability.
+
+Admission Criteria
+1. Academic Readiness
+
+Applicants must hold a bachelor’s degree with a strong foundation in logical or quantitative thinking.
+
+STEM backgrounds such as BCA, BTech, Computer Science, Mathematics, or Engineering are preferred.
+
+Candidates from other disciplines may also apply if they demonstrate strong analytical and problem-solving abilities.
+
+2. Professional Experience (If Applicable)
+
+Applicants may have 0–5 years of experience.
+
+Relevant experience may include roles in:
+
+Technology
+
+Data analytics
+
+Product development
+
+Software engineering
+
+Data-driven decision making
+
+Experience should demonstrate structured problem-solving and analytical thinking.
+
+3. Technical Inclination
+
+Candidates should show curiosity and comfort with technology through exposure to:
+
+Programming languages (such as Python)
+
+Analytics or data tools
+
+Coding projects or technical coursework
+
+AI, machine learning, or automation tools
+
+4. Critical & Analytical Thinking
+
+Applicants must demonstrate the ability to:
+
+Break down complex problems logically
+
+Recognize patterns and trends in data
+
+Draw reasoned conclusions
+
+These skills are evaluated during the technical assessment and interview stage.
+
+Application Timeline & Process
+
+The admission process consists of four stages.
+
+Step 1: Online Application
+
+Applicants begin by completing the online application form.
+
+Required Information
+
+Applicants must submit:
+
+Academic transcripts (BCA / BTech / equivalent)
+
+Professional experience proof (if applicable)
+
+Identity details
+
+Certifications, projects, or achievements that strengthen their profile
+
+Video Essay Requirement
+
+Applicants must submit a 2-minute video introduction covering:
+
+Personal background and journey
+
+Interest in building a career in Artificial Intelligence
+
+Why they are a strong fit for the programme
+
+Career goals for the next 2–3 years
+
+Submission Guidelines
+
+Upload the video to Google Drive
+
+Set access to “Anyone with the link can view”
+
+Submit the link in Part 2 of the application form
+
+The video does not require professional editing; authenticity and clarity are preferred.
+
+Step 2: Scholastic Technical Test
+
+Shortlisted applicants must take the Masters’ Union Scholastic Technical Test.
+
+This is a timed adaptive online assessment designed to evaluate analytical capability.
+
+Test Topics
+
+Logical reasoning
+
+Mathematics and statistics
+
+Programming fundamentals
+
+The test measures the candidate’s problem-solving ability and quantitative thinking.
+
+Step 3: Technical Interview
+
+Candidates who pass the technical test proceed to a technical interview.
+
+The interview is conducted by:
+
+AI engineers
+
+Data scientists
+
+Faculty members
+
+Evaluation Areas
+
+Applicants are assessed on:
+
+Foundational understanding of Python, data, and AI concepts
+
+Problem-solving approach
+
+Curiosity and learning mindset
+
+Ability to structure and explain solutions clearly
+
+Performance under pressure
+
+Step 4: Admission Decision
+
+The admissions committee evaluates each candidate holistically based on:
+
+Application profile
+
+Technical test performance
+
+Interview performance
+
+Overall fit for the programme
+
+Final Decision Categories
+
+Accepted
+Candidates receive an offer letter and must confirm their seat by paying the admission fee within 7–21 days.
+
+Waitlisted
+Applicants may receive an offer if seats become available.
+
+Rejected
+Candidates may apply again for a future cohort.
+
+Programme Fee Structure
+
+The programme follows a two-installment payment model.
+
+Payment Stage	Fee Amount
+Admission Fee (within 30 days of offer)	₹75,000
+Before Programme Start	₹10,95,000
+After 3 Months	₹10,95,000
+Total Programme Fee
+
+₹21,90,000
+
+Fee After Scholarships
+Scholarship	Total Programme Fee
+20% Scholarship	₹17,52,000
+30% Scholarship	₹15,33,000
+50% Scholarship	₹10,95,000
+Scholarships
+
+Scholarships are offered based on merit, experience, and financial need.
+
+Merit-Based Scholarships
+
+Awarded to candidates with:
+
+Strong academic records
+
+Exceptional technical aptitude
+
+Significant professional achievements
+
+Need-Based Scholarships
+
+Provided to candidates who demonstrate:
+
+Financial need
+
+Strong academic capability
+
+High potential for success in AI
+
+Financial Support
+
+The programme offers extensive financial assistance options.
+
+Up to 100% programme fee covered through scholarships
+
+90+ scholarships available for each batch
+
+100% loan coverage available for programme and hostel fees
